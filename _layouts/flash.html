@@ -7,14 +7,12 @@ layout: page
     <div id="o_no-flash" class="disp-n"></div>
     <div id="o_flash-container" class="pos-r" style="width:100%;height:0;padding-top:69.23076923076923%;">
       <div class="ar-inner">
-        <noscript>
-          <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="100%" height="100%" id="00644" align="middle">
-            <param name="allowScriptAccess" value="sameDomain" />
-            <param name="allowFullScreen" value="false" />
-            <param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />
-            {{ content }}
-          </object>
-        </noscript>
+        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="100%" height="100%" id="00644" align="middle">
+          <param name="allowScriptAccess" value="sameDomain" />
+          <param name="allowFullScreen" value="false" />
+          <param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />
+          {{ content }}
+        </object>
       </div>
     </div>
   </div>
