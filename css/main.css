@@ -1688,21 +1688,21 @@ html.meta,
 		margin:1px 20px 0 5px
 	}
 	.o_primary-nav li.div-candycorn:after {
-		content:url(../assets/candycorn.gif);
+		content:url(https://j-james.me/htmlstuck/assets/candycorn.gif);
 		display:inline-block;
 		top:5px;
 		margin:0px 10px 0px 10px;
 		vertical-align:top
 	}
 	.o_primary-nav li.div-a6a6:after {
-		content:url(../assets/a6a6-tooth.gif);
+		content:url(https://j-james.me/htmlstuck/assets/a6a6-tooth.gif);
 		display:inline-block;
 		top:5px;
 		margin:0px 0px 0px 7px;
 		vertical-align:top
 	}
 	.o_primary-nav li.div-scratch:after {
-		content:url(../assets/candycorn-scratch.png);
+		content:url(https://j-james.me/htmlstuck/assets/candycorn-scratch.png);
 		display:inline-block;
 		top:5px;
 		margin:0px 3px 0px 10px;
@@ -1739,17 +1739,17 @@ html.meta,
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_primary-nav-item.slide-candycorn {
-		background:url(../assets/candycorn.gif) 0px 3px no-repeat
+		background:url(https://j-james.me/htmlstuck/assets/candycorn.gif) 0px 3px no-repeat
 	}
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_primary-nav-item.slide-a6a6 {
-		background:url(../assets/a6a6-tooth.gif) 0px 3px no-repeat
+		background:url(https://j-james.me/htmlstuck/assets/a6a6-tooth.gif) 0px 3px no-repeat
 	}
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_primary-nav-item.slide-scratch {
-		background:url(../assets/candycorn-scratch.png) 0px 3px no-repeat
+		background:url(https://j-james.me/htmlstuck/assets/candycorn-scratch.png) 0px 3px no-repeat
 	}
 }
 .o_primary-nav-link {
