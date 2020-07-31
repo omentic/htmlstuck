@@ -319,11 +319,11 @@ a.hover-invert:visited img {
 }
 @font-face {
 	font-family:"viz-icons";
-	src:url(/assets/viz-icons-1a3e6dd4064d302b786092ccf26c0db38e930f9319befba74237bd96c2484489.eot);
-	src:url(/assets/viz-icons-1a3e6dd4064d302b786092ccf26c0db38e930f9319befba74237bd96c2484489.eot?#iefix) format("embedded-opentype"),
-	url(/assets/viz-icons-b650eff1609bbc8c2da97d96374cfae7fc6f8a2604a94572f8d35cc11514bdec.woff) format("woff"),
-	url(/assets/viz-icons-d96328c44dce9c12d2051767cae86cadae9ca1dc32f2f025984c9293f71c515c.ttf) format("truetype"),
-	url(/assets/viz-icons-14990452ee15ce8519e7a53fcd54a914d58efee0480bcd29daea070d31909bf6.svg#viz-icons) format("svg");
+	src:url(https://j-james.me/htmlstuck/assets/viz-icons-1a3e6dd4064d302b786092ccf26c0db38e930f9319befba74237bd96c2484489.eot);
+	src:url(https://j-james.me/htmlstuck/assets/viz-icons-1a3e6dd4064d302b786092ccf26c0db38e930f9319befba74237bd96c2484489.eot?#iefix) format("embedded-opentype"),
+	url(https://j-james.me/htmlstuck/assets/viz-icons-b650eff1609bbc8c2da97d96374cfae7fc6f8a2604a94572f8d35cc11514bdec.woff) format("woff"),
+	url(https://j-james.me/htmlstuck/assets/viz-icons-d96328c44dce9c12d2051767cae86cadae9ca1dc32f2f025984c9293f71c515c.ttf) format("truetype"),
+	url(https://j-james.me/htmlstuck/assets/viz-icons-14990452ee15ce8519e7a53fcd54a914d58efee0480bcd29daea070d31909bf6.svg#viz-icons) format("svg");
 	font-weight:normal;
 	font-style:normal
 }
