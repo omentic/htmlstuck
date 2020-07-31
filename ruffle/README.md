@@ -1,101 +1,53 @@
-<p align="center">
- <a href="https://ruffle.rs"><img src="https://ruffle.rs/assets/logo.png" alt="Ruffle"></a>
-</p>
-<p align="center">
- <a href="https://circleci.com/gh/ruffle-rs/ruffle">
-  <img src="https://img.shields.io/circleci/build/github/ruffle-rs/ruffle" alt="Travis Build Status">
- </a>
-  <a href="https://discord.gg/J8hgCQN">
-      <img src="https://img.shields.io/discord/610531541889581066" alt="Ruffle Discord">
-  </a>
-  <br>
-  <strong><a href="https://ruffle.rs">website</a> | <a href="http://ruffle-rs.s3-website-us-west-1.amazonaws.com/builds/web-demo/index.html?file=synj1.swf">demo</a> | <a href="http://ruffle-rs.s3-website-us-west-1.amazonaws.com/">nightly builds</a> | <a href="https://github.com/ruffle-rs/ruffle/wiki">wiki</a></strong>
-</p>
+# ruffle-selfhosted
 
-# Ruffle
+ruffle-selfhosted is the intended way to get Ruffle onto your website.
 
-Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly.
+You may either include it and forget about it, and we will polyfill existing Flash content,
+or use our APIs for custom configurations or more advanced usages of the Ruffle player.
 
-## Project status
+## Using ruffle-selfhosted
 
-Ruffle is in the proof-of-concept stage and can currently run early Flash animations and games. Basic ActionScript 1.0/2.0 support is in place and improving; ActionScript 3.0 support is forthcoming. For more info, read the [project roadmap](https://github.com/ruffle-rs/ruffle/wiki/Roadmap).
+For more examples and in-depth documentation on how to use Ruffle on your website, please
+[check out our wiki](https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle#web).
 
-## Nightly builds
+### Host Ruffle
 
-[Nightly builds](http://ruffle-rs.s3-website-us-west-1.amazonaws.com/) of Ruffle are available for desktop and web platforms.
+Before you can get started with using Ruffle on your website, you must host its files yourself.
+Either take the [latest build](https://ruffle-rs.s3-us-west-1.amazonaws.com/builds/web/ruffle_web_latest.zip)
+or [build it yourself](../../README.md), and make these files accessible by your web server.
 
-## Building from source
+Please note that the `.wasm` file must be served properly, and some web servers may not do that
+correctly out of the box. Please see [our wiki](https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle#configure-wasm-mime-type)
+for instructions on how to configure this, if you encounter a `Incorrect response MIME type` error.
 
-[Follow the official guide](https://www.rust-lang.org/tools/install) to install Rust for your platform.
+### "Plug and Play"
 
-### Desktop
+If you have an existing website with flash content, you can simply include Ruffle as a script and
+our polyfill magic will replace everything for you. No fuss, no mess.
 
-* `cargo run --package=ruffle_desktop -- test.swf`
+```html
+<script src="path/to/ruffle/ruffle.js"></script>
+```
 
-### Web
+### Javascript API
 
-* Install [Node.js](https://nodejs.org/en/)
-* Install [wasm-pack](https://rustwasm.github.io/wasm-pack/installer/)
+If you want to control the Ruffle player, you may use our Javascript API.
 
-#### Running the web demo
+```html
+<script>
+    window.RufflePlayer = window.RufflePlayer || {};
 
-* `cd web/demo`
-* `npm install`
-* `npm run serve`
-* Load indicated page in browser (usually http://localhost:8080)
+    window.addEventListener("DOMContentLoaded", () => {
+        let ruffle = window.RufflePlayer.newest();
+        let player = ruffle.create_player();
+        let container = document.getElementById("container");
+        container.appendChild(player);
+        player.stream_swf_url("movie.swf");
+    });
+</script>
+<script src="path/to/ruffle/ruffle.js"></script>
+```
 
-#### Hosting on your own site
+## Building, testing or contributing
 
-* `cd web/selfhosted`
-* `npm install`
-* `npm run build`
-* Follow the wiki instructions for [using Ruffle on your own site](https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle#web)
-
-### Scanner
-
-If you have a collection of "real world" SWFs to test against, the scanner may be used to benchmark
-ruffle's parsing capabilities. Provided with a folder and an output filename, it will attempt to read
-all of the flash files and report on the success of such a task.
-
-* `cargo run --package=ruffle_scanner -- folder/with/swfs/ results.csv`
-
-## Structure
-
-- `core` contains the core emulator and common code
-- `desktop` contains the desktop client (uses `glium`)
-- `web` contains the web client (uses `wasm-bindgen`)
-- `scanner` contains a utility to bulk parse swf files
-
-## Sponsors
-
-You can support the development of Ruffle via [GitHub Sponsors](https://github.com/sponsors/Herschel). Your sponsorship will help to ensure the accessibility of Flash content for the future. Thank you!
-
-Sincere thanks to the diamond level sponsors of Ruffle:
-
-<p align="center">
-  <a href="https://www.newgrounds.com">
-    <img src="assets/ng_logo.png" alt="Newgrounds.com">
-  </a>
-  <a href="https://www.cpmstar.com">
-    <img src="assets/cpmstar_logo.png" alt="CPMStar">
-  </a>
-  <a href="https://deepnight.net">
-    <img src="assets/deepnight_logo.png" alt="Sébastien Bénard">
-  </a>
-  <a href="https://www.crazygames.com">
-    <img src="assets/crazygames_logo.png" alt="Crazy Games">
-  </a>
-</a>
-
-## License
-
-Licensed under either of
- * Apache License, Version 2.0 ([LICENSE_APACHE](LICENSE_APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license ([LICENSE_MIT](LICENSE_MIT) or http://opensource.org/licenses/MIT)
-at your option.
-
-### Contribution
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you shall be dual licensed as above, without any
-additional terms or conditions.
+Please see [the ruffle-web README](../../README.md).
