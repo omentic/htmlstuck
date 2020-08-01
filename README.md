@@ -25,4 +25,4 @@ With Adobe Flash's end-of-life set for [December 31, 2020](https://www.adobe.com
 	- Currently, `ruffle_web_latest.zip` is downloaded by me and thrown into `ruffle`
 	- Is the latest version hosted somewhere?
 - [x] Make a nice logo
-- [ ] 404.html should load a random image <!-- from https://mspaintadventures.fandom.com/wiki/Scribble_Mode -->
+- [x] 404.html should load a random image <!-- from https://mspaintadventures.fandom.com/wiki/Scribble_Mode -->
