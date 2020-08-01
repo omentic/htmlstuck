@@ -9045,4 +9045,6 @@ a:hover .hover-zoom {
 	display:none;
 	background:transparent
 }
-a
+#header-container {
+	max-height: 31px;
+}
