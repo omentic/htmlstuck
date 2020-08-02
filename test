@@ -1,6 +1,0 @@
-<html lang="en-US">
-{% include head.html %}
-<body>
-	{% include header.html %}
-</body>
-</html>
