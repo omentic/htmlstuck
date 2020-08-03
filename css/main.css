@@ -2379,7 +2379,7 @@ a.cascade:visited {
 	transition:opacity 0.15s ease;
 	z-index:4;
 	pointer-events:none;
-	background:white url(/assets/ajax-ring-loader-64x64-fd85d6ed75ef68961b9bafb80be7a2d370eeb8114087241378362ad8dca2d611.gif) no-repeat center center;
+	background:white url(https://j-james.me/htmlstuck/assets/ajax-ring-loader-64x64.gif) no-repeat center center;
 	opacity:0
 }
 .o_overlay-wait[data-overlay-state="on"] {
