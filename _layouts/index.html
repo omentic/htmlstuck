@@ -1,0 +1,18 @@
+<html dir="ltr" lang="en-US">
+	{% include head.html %}
+	<body>
+		<div class="row" style="max-width:750px;padding:0;">
+			<h1 class="o_logo-fixed">
+				<a href="https://j-james.me/htmlstuck/" class="o_logo-img color-white type-md weight-bold">
+					<img class="full pad-t-sm" alt="HTMLstuck" src="https://j-james.me/htmlstuck/assets/htmlstuck.png"/>
+				</a>
+			</h1>
+		</div>
+		{% include header.html %}
+		<div class="pad-y-rg">
+			<div class="bg-hs-lime mar-y-rg" style="height:3px;width:100%;"></div>
+		</div>
+		{{ content }}
+		{% include site-footer.html %}
+	</body>
+</html>
