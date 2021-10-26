@@ -319,11 +319,11 @@ a.hover-invert:visited img {
 }
 @font-face {
 	font-family:"viz-icons";
-	src:url(https://j-james.me/htmlstuck/assets/viz-icons.eot);
-	src:url(https://j-james.me/htmlstuck/assets/viz-icons.eot?#iefix) format("embedded-opentype"),
-	url(https://j-james.me/htmlstuck/assets/viz-icons.woff) format("woff"),
-	url(https://j-james.me/htmlstuck/assets/viz-icons.ttf) format("truetype"),
-	url(https://j-james.me/htmlstuck/assets/viz-icons.svg#viz-icons) format("svg");
+	src:url(https://htmlstuck.com/assets/viz-icons.eot);
+	src:url(https://htmlstuck.com/assets/viz-icons.eot?#iefix) format("embedded-opentype"),
+	url(https://htmlstuck.com/assets/viz-icons.woff) format("woff"),
+	url(https://htmlstuck.com/assets/viz-icons.ttf) format("truetype"),
+	url(https://htmlstuck.com/assets/viz-icons.svg#viz-icons) format("svg");
 	font-weight:normal;
 	font-style:normal
 }
@@ -1688,21 +1688,21 @@ html.meta,
 		margin:1px 20px 0 5px
 	}
 	.o_primary-nav li.div-candycorn:after {
-		content:url(https://j-james.me/htmlstuck/assets/candycorn.gif);
+		content:url(https://htmlstuck.com/assets/candycorn.gif);
 		display:inline-block;
 		top:5px;
 		margin:0px 10px 0px 10px;
 		vertical-align:top
 	}
 	.o_primary-nav li.div-a6a6:after {
-		content:url(https://j-james.me/htmlstuck/assets/a6a6-tooth.gif);
+		content:url(https://htmlstuck.com/assets/a6a6-tooth.gif);
 		display:inline-block;
 		top:5px;
 		margin:0px 0px 0px 7px;
 		vertical-align:top
 	}
 	.o_primary-nav li.div-scratch:after {
-		content:url(https://j-james.me/htmlstuck/assets/candycorn-scratch.png);
+		content:url(https://htmlstuck.com/assets/candycorn-scratch.png);
 		display:inline-block;
 		top:5px;
 		margin:0px 3px 0px 10px;
@@ -1739,17 +1739,17 @@ html.meta,
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_primary-nav-item.slide-candycorn {
-		background:url(https://j-james.me/htmlstuck/assets/candycorn.gif) 0px 3px no-repeat
+		background:url(https://htmlstuck.com/assets/candycorn.gif) 0px 3px no-repeat
 	}
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_primary-nav-item.slide-a6a6 {
-		background:url(https://j-james.me/htmlstuck/assets/a6a6-tooth.gif) 0px 3px no-repeat
+		background:url(https://htmlstuck.com/assets/a6a6-tooth.gif) 0px 3px no-repeat
 	}
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_primary-nav-item.slide-scratch {
-		background:url(https://j-james.me/htmlstuck/assets/candycorn-scratch.png) 0px 3px no-repeat
+		background:url(https://htmlstuck.com/assets/candycorn-scratch.png) 0px 3px no-repeat
 	}
 }
 .o_primary-nav-link {
@@ -2379,7 +2379,7 @@ a.cascade:visited {
 	transition:opacity 0.15s ease;
 	z-index:4;
 	pointer-events:none;
-	background:white url(https://j-james.me/htmlstuck/assets/ajax-ring-loader-64x64.gif) no-repeat center center;
+	background:white url(https://htmlstuck.com/assets/ajax-ring-loader-64x64.gif) no-repeat center center;
 	opacity:0
 }
 .o_overlay-wait[data-overlay-state="on"] {

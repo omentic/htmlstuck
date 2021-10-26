@@ -1,6 +1,4 @@
-<img align='middle' src='https://j-james.me/htmlstuck/assets/htmlstuck.png'>
-
-<!-- (psst - htmlstuck.com is available) (for pretty cheap too) -->
+<img align='middle' src='https://htmlstuck.com/assets/htmlstuck.png'>
 
 <!-- ## What is this?
 
@@ -10,7 +8,7 @@ With Adobe Flash's end-of-life set for [December 31, 2020](https://www.adobe.com
 
 ## Roadmap
 - [x] Fix polyfill
-	- [x] CSS either loads on <https://j-james.me/htmlstuck> or <https://j-james.me/htmlstuck/story>, never both
+	- [x] CSS either loads on <https://j-james.me/htmlstuck> or <https://htmlstuck.com/story>, never both
 		- `../` accesses different locations from `htmlstuck` and `htmlstuck/story`.
 		- Fix: Refer to assets and css with absolute links (`j-james.me/htmlstuck/css/main.css`)
 	- [x] [cross-origin requests are blocked](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin)
