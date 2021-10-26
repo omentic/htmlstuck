@@ -1196,7 +1196,6 @@ html.meta,
 	height:100%
 }
 .meta .o_content {
-	box-flex:1;
 	flex:1 0 auto;
 	min-width:0;
 	min-height:0
@@ -1228,7 +1227,6 @@ html.meta,
 	}
 }
 .o_logo-top {
-	box-ordinal-group:3;
 	order:3;
 }
 @media screen and (max-width: 46.8125rem) {
@@ -1243,7 +1241,6 @@ html.meta,
 	}
 }
 .o_logo-top.bm {
-	box-ordinal-group:1;
 	order:1;
 }
 @media screen and (max-width: 46.8125rem) {
@@ -1580,7 +1577,6 @@ a.more-2:active {
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_utility-nav {
-		box-ordinal-group:4;
 		order:4;
 	}
 	.o_utility-nav a {
@@ -1592,7 +1588,6 @@ a.more-2:active {
 }
 @media screen and (min-width: 46.875rem) {
 	.o_utility-nav {
-		box-ordinal-group:1;
 		order:1;
 	}
 	.o_utility-nav a {
@@ -1609,14 +1604,12 @@ a.more-2:active {
 }
 @media screen and (max-width: 46.8125rem) {
 	.o_site-search {
-		box-ordinal-group:4;
 		order:4;
 		margin:2px 0px 2px 10px
 	}
 }
 @media screen and (min-width: 46.875rem) {
 	.o_site-search {
-		box-ordinal-group:2;
 		order:2;
 		width:300px;
 		font-size:12px
@@ -1665,8 +1658,6 @@ input.o_site-search-field {
 	.o_story-bottom-nav {
 		display:box;
 		display:flex;
-		box-pack:justify;
-		box-pack:justify;
 		justify-content:space-between;
 	}
 }
@@ -1915,7 +1906,7 @@ a.trickster {
 	color:#FB060B
 }
 a.trickster:visited {
-	color:colr(trickster-link-v)
+	color:color(trickster-link-v)
 }
 #trickster-hdr {
 	height:24px;
@@ -5336,62 +5327,42 @@ a.cascade:visited {
 	}
 }
 .flex-width-0 {
-	box-flex:0;
 	flex:0
 }
 .flex-width-1 {
-	box-flex:1;
 	flex:1
 }
 .flex-width-2 {
-	box-flex:2;
 	flex:2
 }
 .flex-width-3 {
-	box-flex:3;
 	flex:3
 }
 .flex-wrap {
-	box-lines:multiple;
 	flex-wrap:wrap
 }
 .flex-wrap-rev {
-	box-lines:multiple;
 	flex-wrap:wrap-reverse
 }
 .flex-column {
-	box-orient:vertical;
 	flex-direction:column;
 }
-.flex-center {
-	box-align:center;
-}
-.flex-stretch {
-	box-align:stretch;
-}
 .flex-items-center {
-	box-align:center;
 	align-items:center;
 }
 .flex-items-baseline {
-	box-align:baseline;
 	align-items:baseline;
 }
 .flex-justify {
-	box-pack:justify;
-	box-pack:justify;
 	justify-content:space-between;
 }
 .flex-justify-end {
-	box-pack:end;
 	justify-content:flex-end;
 }
 .flex-justify-center {
-	box-pack:center;
 	justify-content:center;
 }
 .flex-auto {
-	box-flex:1;
 	flex:1 1 auto;
 	min-width:0;
 	min-height:0
