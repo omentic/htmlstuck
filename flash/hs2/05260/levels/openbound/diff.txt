@@ -1,0 +1,1367 @@
+diff --git a/text b/text2
+index e2f8d90..ffe6331 100644
+--- a/text
++++ b/text2
+@@ -4,6 +4,7 @@ MEENAH: this is your door aint it
+ KARKAT: (what makes you say that.)
+ MEENAH: the symbol on the doors the same as on your fuckin shirt
+ MEENAH: come on it aint blastoff device science
++ #pchooo
+ KARKAT: (ok, yeah, it's mine. maybe i got tired of interloping shitbags traipsing through my PRIVATE and PERSONAL memories.)
+ MEENAH: you dont need to whisper anymore aint no one around
+ KARKAT: OH
+@@ -13,14 +14,17 @@ MEENAH: no just tell me shouty!!!
+ KARKAT: OH MY GOD, THAT IS SO UNREASONABLE. HOW IS IT NOT PRETTY MUCH THE MOST REASONABLE FUCKING THING IN THE WORLD TO LET ME JUST TYPE MY OWN PASSWORD???
+ MEENAH: dude you want kankri to find you and talk yer nubs off again
+ KARKAT: NO!!! ANYTHING BUT THAT.
++ #OH DEAR GOD
+ KARKAT: ALRIGHT, I'LL TELL YOU, JUST...
+ KARKAT: DON'T GO BLABBING IT AROUND.
+ KARKAT: THE PASSWORD IS...
+ 
+ MEENAH: wuh
++ #?
+ 
+ MEENAH: bro you gotta speak up
+ KARKAT: IF I HATE MYSELF SO MUCH, THEN WHY DON'T I HATEMARRY MYSELF!!!!!!!
++ #WHAT ARE YOU DEAF
+ MEENAH: T)(ATS your p word
+ MEENAH: what in glubs name does that mean
+ KARKAT: NOTHING. IT'S NONE OF YOUR BUSINESS.
+@@ -33,68 +37,94 @@ MEENAH: (hey vantas)
+ KARKAT: (what.)
+ MEENAH: (nows yer chance)
+ MEENAH: (lets blow this nautical stand)
++ #nautical/popsicle... #eh close enough
+ KARKAT: (oh...)
+ KARKAT: (i don't think i'm supposed to.)
+ MEENAH: (shouty you cant let that boring nerd tell you how to roll)
+ MEENAH: (you wanna stand here lisfinin to his shellf important abaloney all day???)
+ KARKAT: (not really.)
++ #SHELLF IMPORTANT ABALONEY? #GODDAMN SEADWELLERS
+ MEENAH: (then COM-E ON!)
+ LATULA: yo yo, p4ystubz my grrrl!
+ MEENAH: shit tules
+ MEENAH: i forgot how many rad nicknames you like to cycle through 
++ #passin out names like cheap cuttlefish
+ MEENAH: you know i always thought paycheck was kind of dope why dont you just stick with that
+ LATULA: r1ght on! 1 l1k3 th4t on3 too, p4ych3ck 1t 1z. H1GH F1V3 GRL!!!
++ #WOO
+ MEENAH: no lets not OWWWWWW
++ #OOW
+ LATULA: ooh sorry, d1d 1 hurt you???
++ #>8(
+ MEENAH: nnn... no? i meant
+ MEENAH: wwwwWOWWWWWW
++ #uh #yeah
+ MEENAH: like "WOWWWWW that was a radical hand slappin"
+ LATULA: SUR3 FUCK1N WUZ!!! d4ng 1ts t1ght your3 b4ck.
++ #th3 t1ghtn3ss
+ MEENAH: thats cool but
+ MEENAH: arent you overstatin our prior relationship as somefin above neutral just a TAD
++ #tadpole #yeah its a stretch as a fish pun #gonna count it tho
+ LATULA: w3ll m4yb3. but 1 h4d 4 lot of t1m3 to th1nk, both b3for3 w3 4ll 4t3 1t, 4ND 4ft3r.
++ #th3 b1g w1p3out #r4d d34th 4n4log13s
+ LATULA: 4nd 1 c4m3 to som3 MAD 3p1ph4n13z, 4bout you, or us r34lly. 1 w4s th1nk1ng 4bout you 4ll wrong.
+ LATULA: for most of th3 t1m3 w3 kn3w 34ch oth3r, 1 w4s 4ll l1k3, WHY SHOULD TH3R3 B3 TWO B4D4SS, 1N-YOUR-F4C3 GRLZ 1N TH3 GROUP???
+ LATULA: sort of ov3rk1ll, r1ght?
+ MEENAH: mehhh
++ #u searious?
+ LATULA: 1 w4s k1nd of v13w1ng you 4s 4 comp3t1tor, 1n l1k3 4 two grl RAD-OFF. 1 w4s w1nn1ng 1n my m1nd, of cours3. but s33, 1 h4d 1t 4ll wrong!!!!
+ MEENAH: did you
+ LATULA: Y3AH! s33, 1m th3 t34mz R4D GRL, wh3r34s YOUR3 th3 t34mz B4D GRL!!!! 1t 4ll m4k3s p3rf3ct s3ns3! do3snt th4t m4k3 SO MUCH S3NS3???
+ MEENAH: that
+ MEENAH: is the stupidest glubbin thing to require any sorta rationalization i ever heard
++ #p lame tules
+ LATULA: s33 p4ych3ck? 1 kn3w 1 could count on you to b3 just1f14bly cyn1c4l 4bout my n3urot1c bullsh1t. you RUL3!!!
+ PORRIM: I really can't blame yo+u fo+r being in such a hurry to+ go+ kill him.
+ MEENAH: huh
+ PORRIM: The Lo+rd o+f Time. Actually, it's a go+o+d example o+f what I've always been trying to+ say to+ Kankri, but he do+esn't buy it.
++ #Sno+tty brat privilege
+ PORRIM: After the scratch, o+ur wo+rld co+ntinued to+ be matriarchal upo+n superficial o+bservatio+n, but was subject to+ a co+nsiderably mo+re sinister, clo+aked fo+rm o+f patriarchal tyranny all alo+ng.
+ MEENAH: water you talking about
+ PORRIM: Yo+ur po+st-scratch self, who+ grew up to+ be the empress, was really just the Lo+rd's slave all alo+ng. Implicity during her lo+ng reign, thro+ugh manipulatio+n by his cunning emplo+yee. 
++ #An excellent ho+st
+ PORRIM: And then explicitly, after the extinctio+n o+f o+ur race. She fo+rmally became his servant, and did his bidding lo+ng thereafter.
+ MEENAH: W)(AT!!!!!
+ PORRIM: He did the same with Damara. She was his lo+yal Time Witch, helping him turn o+ur wo+rld into+ the nightmare it became. When her usefulness came to+ an end, he pitted yo+u and her against each o+ther, in I guess a twisted redux o+f the co+nflict yo+u and she had in the past.
++ #The o+utco+me was so+mewhat different this time
+ MEENAH: yo that is so messed up!
+ PORRIM: The bo+tto+m line is, in additio+n to+ being an all aro+und bastard, this guy appears to+ enjo+y being especially nasty to+ girls.
+ PORRIM: If it's true he's hunting do+wn the gho+st o+f his departed "sister", then I really feel so+rry fo+r her.
+ MEENAH: NO FUCK T)(AT
++ #RARRRG)(
+ MEENAH: I AM GOING TO SLAUG)(T-ER T)(AT UGLY MUSCL-E MONST-ER
++ #AARRRRAAAWWWRRG)(G
+ MEENAH: I WILL ST-EAL )(IS S)(ITTY COAT AND W-EAR IT ON MY T)(RON-E
++ #AAAUURGRURGGU)(G)()(
+ MEENAH: I WILL RIP OFF )(IS SKULL AND GILD IT AND T)(-EN I WILL W-EAR IT AS MY CROWN W)(IL-E )(IS BL-E-EDING GR-E-EN TORSO BOWS B-EFOR-E M-E
++ #ARRARARGLAAARUGRGURGGLE
+ PORRIM: Um,
++ #wo+w
+ PORRIM: Best o+f luck with that.
+ KANKRI: Wh9a, Meenah. I didn't see y9u c9me in. Y9u sh9uld have c9me say hell9.
+ MEENAH: oh
+ MEENAH: yeah i didnt wanna bother you and shoutier you over there
++ #or talk to or listen to or be around you
+ KANKRI: It w9uld have 6een alright. Karkat and I were 9nly a few h9urs fr9m wrapping up 9ur first 9f what I'm presuming will 6e many, many sessi9ns t9gether.
++ #s9 many
+ KANKRI: Y9u and I have s9 much t9 discuss. I've really crystallized s9me pr96lems. Eternity has really helped me make s9me pr9gress 9n issues that matter t9 every69dy. Even gr9ups 9f pe9ple wh9 d9n't technically exist. 
+ KANKRI: I've had a l9t 9f time t9 think. A69ut that, and a69ut us. 9ur team, I mean, and the mistakes we've made which were pr96a6ly 6lessings in disguise. I kn9w we had 9ur differences, with y9u claiming the r9le as s9rt 9f 9ur defact9 leader, in terms 9f strategy and executi9n... literal executi9n, I supp9se. While I r9se t9 pr9minence am9ng 9ur peers as the undisputed spiritual shepherd 9f the gr9up. 
++ #Herding all these g9ddamn w99l6easts #Fuckin pain in the ass
+ MEENAH: uh
+ MEENAH: whatever you say
++ #undisputed spiritual shepherd? #ahahahahaha
+ KANKRI: I've als9 heard y9u're recruiting mem6ers f9r a militia? An9ther 69ld endeav9r. N9t surprising, th9ugh. 6ef9re y9u em6ark, I d9 h9pe y9u'll set aside at least several sweeps t9 listen t9 s9me 9f my...
+ MEENAH: hey vantas
+ MEENAH: i really want to hear more of your garbage and lisfin to it all with hella baited breath
++ #baited like worms and such #fishin #38)
+ MEENAH: like i really really missed that you have no idea
+ MEENAH: but i have to go do
+ MEENAH: a thing
++ #uh #yeah
+ MEENAH: reel quick
+ KANKRI: 9h.
+ MEENAH: can you wait
+@@ -108,24 +138,31 @@ ARADIA: greetings!
+ ARADIA: ive been meaning to say hello since you arrived
+ MEENAH: ...
+ MEENAH: M-EGIDO???
++ #aw hell no
+ ARADIA: yes but not the one youre thinking of
+ MEENAH: which one then
+ ARADIA: i like to consider myself as something of a caretaker for this place
++ #you know #the afterlife?
+ ARADIA: id refer to myself as an excellent host but that has become kind of a loaded phrase
++ #:D
+ MEENAH: you look like megido
+ MEENAH: but you sure dont sound like any megido i know
+ ARADIA: i should hope not!
+ ARADIA: anyway those of us who are concerned with the preservation of reality have been looking forward to this day for some time
++ #even though 'time' is really just a figure of speech here
+ MEENAH: why would you be lookin forward to this shit
++ #the sky just broke #stupid fairy
+ ARADIA: not the devastation so much as your arrival
+ ARADIA: you have some big plans yes?
+ MEENAH: ...
++ #maybe
+ MEENAH: whats it to you
+ ARADIA: oh nothing! i am merely extending the courtesy of a formal welcome
+ ARADIA: now off with you! go find your friends
+ ARADIA: that IS why youve finally come out of your palace isnt it?
+ MEENAH: yeah
+ MEENAH: guess ill get goin then
++ #but i got my eye on you #megido lookin fairy
+ ARADIA: ta!
+ ARADIA: lost?
+ MEENAH: i uh
+@@ -134,25 +171,29 @@ ARADIA: yes thats a dead end
+ ARADIA: where you want to go is
+ ARADIA: THAT way
+ ARADIA: *nk-nkt*
++ #double pistols #and a ;)
+ MEENAH: thanks
+ MEENAH: weirdo
+ MEENAH: yo orange guy
+ MEENAH: or uh
+ MEENAH: yellow guy
++ #squash colored?
+ .............
+ MEENAH: whats your deal
++ #what the fuck is with all these 8 balls
+ MEENAH: are you uh
+ MEENAH: crying?
++ #awkward
+ SILENCE.
+ Bring me a horse, and I am yours forever.
+ Oh my god, you didn't.
+- You DIDN'T......
++You DIDN'T......
+  #could it be?
+ _YOU DID_
+ YOU BROUGHT ME A HORSE!
+ Look at this glorious, knotted up horse hitcher. This is the most amazing present I have ever received. I will cherish it forever.
+ So uh, hey...
+- Do you come here often?
++Do you come here often?
+  #Vriska WHO?????
+ MEENAH: oh my cod
+ Well, a deal is a deal.
+@@ -162,53 +203,56 @@ MEENAH: WHY did i have to bring this idiot that horse hitcher
+ Wait. You hear something nearby.
+ Is...
+ Is that...
+- Sobbing?
++Sobbing?
+  #????
+ Be Meenah?
+ You got a GOLD TIARA!
+- You have no intention of wearing this thing, but it doesn't hurt to start stockpiling loot again. Now that you're dead, you're finding yourself a little light on collateral, if you know what I'm saying.
++You have no intention of wearing this thing, but it doesn't hurt to start stockpiling loot again. Now that you're dead, you're finding yourself a little light on collateral, if you know what I'm saying.
+  #bling #carats #jackpot
+ You got a DOUBLE TRIDENT!
+- You already have one of these. But there ain't nothing wrong with stowing a little more SOLID GOLD in your inventory. You got an extravagant ghost sea princess lifestyle to maintain.
++You already have one of these. But there ain't nothing wrong with stowing a little more SOLID GOLD in your inventory. You got an extravagant ghost sea princess lifestyle to maintain.
+  #GOLD #$$$$$ #booyeah
+ You got a DIRTY OLD FEDORA!
+- Totally useless. This nasty trash isn't coming anywhere close to your head. Doesn't even have horn holes. Looks like something an archaeologist would wear. You wonder whose memory this is?
++Totally useless. This nasty trash isn't coming anywhere close to your head. Doesn't even have horn holes. Looks like something an archaeologist would wear. You wonder whose memory this is?
+  #hornless troll indiana jones hat
+- You got some BOONDOLLARS! 
++You got some BOONDOLLARS! 
+  #ka ching
+- It's not much, but you pocket the loot without a second thought. The bankroll's been a little slack since you died, and every bit helps on your climb back to obscene wealth.
++It's not much, but you pocket the loot without a second thought. The bankroll's been a little slack since you died, and every bit helps on your climb back to obscene wealth.
+  #broke
+- You got a SCALEMATE PLUSH!
++You got a SCALEMATE PLUSH!
+  #pyralspite
+- Holy shit. You are never going to stop hugging this thing. Ever.
++Holy shit. You are never going to stop hugging this thing. Ever.
+  #highly desirable merchandise
+ You got some ANCIENT SERPENT BONES!
+- Again, a strange thing to find. Who here would have a memory of these? Huge prehistoric green serpents have always played a major role in your people's mythology, both before and after your session scratched. Of course, only people with an interest in ancient lore and dusty old bones give a crap about that. You're much more interested in their monetary value. Hopefully you can find a sucker to pay up for them big time.
++Again, a strange thing to find. Who here would have a memory of these? Huge prehistoric green serpents have always played a major role in your people's mythology, both before and after your session scratched. Of course, only people with an interest in ancient lore and dusty old bones give a crap about that. You're much more interested in their monetary value. Hopefully you can find a sucker to pay up for them big time.
+  #where's the prawn shop in this bitch
+ You got a BRONZE POTION!
+- This stuff is supposed to make you kiss good, with side effects of mild to total paralysis. Wait a minute... isn't this just some troll blood? Oh yuck.
++This stuff is supposed to make you kiss good, with side effects of mild to total paralysis. Wait a minute... isn't this just some troll blood? Oh yuck.
+  #you throw it off a cliff
+ You got a thing of MOTOR OIL!
+- Hey, this bottle even has the label intact! Typically the label is ripped off and applied to chalk murals. The fact that it still has a label makes it much more valuable as a collector's item. Always gotta be mindful of the cash value of the useless shit you find in chests.
++Hey, this bottle even has the label intact! Typically the label is ripped off and applied to chalk murals. The fact that it still has a label makes it much more valuable as a collector's item. Always gotta be mindful of the cash value of the useless shit you find in chests.
+  #P.S. #you take a little sip #it tastes awful
+ You got a BOONBUCK!
+- Now we're talking. This should get your broke ass off the canvas. It's such a crime that the insane fortune you accumulated in your game doesn't persist after you die. You guess it's true, you really can't take it with you to the other side.
++Now we're talking. This should get your broke ass off the canvas. It's such a crime that the insane fortune you accumulated in your game doesn't persist after you die. You guess it's true, you really can't take it with you to the other side.
+  #but once you're there #you can try to make it back in a FUCKING HURRY
+ You got a BLOODY CHERUB TOOTH!
+- The fact that this is in a chest here is kind of disturbing to you in ways you can't really explain. You think you'll try to sell this thing to the highest bidder as soon as possible.
++The fact that this is in a chest here is kind of disturbing to you in ways you can't really explain. You think you'll try to sell this thing to the highest bidder as soon as possible.
+  #or whoever makes the first offer
+ MEENAH: so shouty
+ MEENAH: or... kankrat was it?
+ MEENAH: been meaning to axe you... HEY!
+ MEENAH: whered he go?
++ #sigh
+ MEENAH: its so hard makin friends
+ ARANEA: Yes, I saw him scurry 8y a moment ago. He went that way, into a memory of his old neigh8orhood.
+ MEENAH: man what gives
+ MEENAH: does my breath stink or
++ #do i need a fish mint
+ ARANEA: I think he just wants to 8e alone. He tried to lock his memories away from others, I guess without realizing these 8u88les can 8e very permea8le. If the memory is 8ig enough, people will 8e a8le to wander into it from many directions.
+ ARANEA: He pro8a8ly won't 8e too happy to find more of our friends hanging out there.
+ MEENAH: oh shit more of the old gang is that way
+ MEENAH: guess i better go talk to them too
++ #yay more useless tools
+ MEENAH: probably have to bail shouty out YET AGAIN
+ MEENAH: damn kid makes you work
+ ARANEA: That's pro8a8ly why you're o8sessed with him.
+@@ -220,13 +264,16 @@ ARANEA: I am offering explanations! I will explain anything you desire.
+ MEENAH: ahahaha you must be out of your seasponge if you think ima part with anyfin of value for a shitty speech
+ ARANEA: Oh, no! You misunderstand. It is I who will pay YOU five 8oon8ucks if you listen to an explanation on any topic of your choosing!
+ MEENAH: oh
++ #good grief
+ ARANEA: So what topic will it 8e?
+ MEENAH: hang on!
++ #im thinking
+ ARANEA: Can't decide on a topic?
+ MEENAH: no cant decide if its worth listening to you even if you pay me
+ ARANEA: >::::(
+ ARANEA: Now I know you're messing with me. I know you can't say no to easy money.
+ MEENAH: yeah youre right
++ #if i fall asleep do i still get paid
+ MEENAH: lay it on me
+ ARANEA: The Seer of 8lood played quite a different role on our team from that of his successor, though his potential as a 8lood player went similarly unrealized. It was only when he grew up on Alternia did he 8egin to tap into his a8ilities, triggering recollection of our lives on 8eforus, and what we all went through.
+ ARANEA: He remem8ered our more peaceful way of life, and his desire to unite people. As an adult he was a8le to do this much more effectively and maturely. Heroically, even. He learned how to inspire others, and 8e a true leader, even when the odds were stacked against him in his violent culture. It cost him his life, 8ut his message lived on. I 8elieve the Knight of 8lood now carries his 8urden, whether he has decided to accept it or not.
+@@ -241,11 +288,13 @@ ARANEA: Would you like to make some money, or not?
+ MEENAH: you know me i am all about the boonjamins
+ ARANEA: Then please stand there quietly while I continue.
+ MEENAH: urrrhn fin
++ #*fine
+ ARANEA: After the tragic accident which left her nasally impaired, her mighty dragon lusus, ancient and wise 8eyond our comprehension, 8egan to teach her "new ways to smell." To reinvent the sense, using other sense organs such as eyes and ears, awakening completely new experiences in her mind. She was truly an inspiration, and proved 8eyond a shadow of a dou8t that any handicap can 8e overcome, and doesn't have to stop you from 8eing as rad as you can truly 8e.
+ MEENAH: wuuut
+ MEENAH: serket are you whistlin through my blowhole with his idiotic shit
+ ARANEA: Yes, that last part was a joke. Lighten up, Peixes!
+ MEENAH: yeah yeah what do we have to do to seal this deal here
++ #seal #you know #the marine barkbeast
+ ARANEA: Well........
+ MEENAH: Just tell me the bare minimum a what i need to hear to snag ma boonies and run
+ ARANEA: Ok. Even though Latula has 8een dating Mituna steadily for eons, it's hardly a secret to anyone that she and Kankri have had complicated unrequited feelings for even longer. So really, much like their descendants. Aaaaaaaand, we're done! Here you go.
+@@ -265,6 +314,7 @@ ARANEA: No, Meenah. I am not paying you so that you can listen to me indulge in
+ ARANEA: Now what was I talking a8out? Gosh, I've lost my train of thought........
+ MEENAH: ahahaha why you blushin girl
+ MEENAH: omigawd you and she...???????
++ #??????????? #NOODLES OF INTENSE CURIOSITY
+ ARANEA: 
+ MEENAH: ho man why didnt you ever tell me i thought we was fronds
+ ARANEA: Look. Three sweeps is a long time to spend in a failed, pointless session!
+@@ -277,7 +327,7 @@ ARANEA: Argh, fine! Just take it!!!!!!!!
+ MEENAH: her imperious condescension thanks you for your generous contribution to the new empire
+ ARANEA: I'm glad you're a good guy this time. You really were hatched to 8e SUCH A 8ITCH!!!!!!!!
+ You got a 2010 SPIRITED HORSE CALENDAR!
+- You flip through it and... yep. Hearts Boxcars is still farming all those goddamn horses.
++You flip through it and... yep. Hearts Boxcars is still farming all those goddamn horses.
+  #fuckin pain in the red cheeks
+ This leads to the end of the game. Are you sure you're done here?
+ That's the end. Continue playing on the next page.
+@@ -302,26 +352,6 @@ You rebubble this memory, and no one understands it at all. People say things th
+ You rebubble this memory, and it gets almost no likes OR hates. People seem to have no opinion about it at all. Which is actually the worst imaginable outcome. It is a fate 10 times worse than death, and 100 times worse than second death.
+ Congratulations! That was the rebubble that pushed you over the edge. You are now OFFICIALLY BUBBLR FAMOUS!
+ Oops. That memory you just rebubbld was in violation of the furthest ring's content policy. The administrators (horrorterrors) have suspended your soul and you are now blocked from rebubbling memories (unless you really want to).
+-You rebubble the memory to your followers without really thinking ahead. It has no conceivable relevance to anyone who follows your feed, and everyone wonders why they're even bothering to read this shit. A few people who were on the fence about you quietly unfollow your bubblr feed. The horrorterrors thank you for contributing to the entropy of the afterlife.
+-You rebubble the memory and almost instantly regret it. But now it's just sitting there on your feed, already racking up 'likes', 'hates', and additional rebubbles. You wish you hadn't, but now it's out there. Popping the bubble now would make you look wishywashy to your followers.
+-You rebubble the memory. It's a huge hit! People give you a big pat on the back for rebubbling this content, and you essentially reap more credit and recognition for the content than the original author of the memory. It's a great feeling, riding the coattails of other people's interesting memories to skyrocket in stature among your followers. This must be how clever people with real accomplishments feel ALL THE TIME!
+-You rebubble the memory, and it is almost universally loathed. You lose half your followers in the blink of an eye. Better be more careful. When your follower count drops to zero in the afterlife, your soul dies forever.
+-You decide to rebubble the memory, but before you send it out into the abyss, you radically alter the content of the memory, for the lulz. A whole lot of people consider the memory to be lulzworthy as well without realizing it's been altered, and they rebubble it thousands of times. The lie has officially been rebubbled enough to qualify as truth. The elder gods smile upon your misdeeds.
+-You rebubble the memory thinking it will bring you joy. But it doesn't. No matter how many memories you like or hate or rebubble, you are always left with an empty feeling in your soul. Like your existence is truly as meaningless as one would expect it to be out in the middle of an endless void amidst colossal hideous monsters. Why do you do this to yourself? And yet, you cannot stop...
+-You rebubble the memory and immediately spark a flame war among others who rebubble it. They chime in to the memory, adding their two boonpennies. The hostile rhetoric begins to pile up, and soon you try to trace the argument from the beginning in a linear fashion. But you can't. It is pure chaos, as the bubbles have hopelessly dispersed throughout the ring, reducing any coherence the argument once had into shrieking white noise. The dark gods enjoy another small victory over order and reason.
+-You rebubble it while appending a sassy editorial remark to the content. But the joke doesn't go over too well, and people start calling you out on it. You decide to pop the bubble and put it to rest before it really embarrasses you. But later people dredge up old bubbles containing their memories of your rebubbled memory, and throw it back in your face. That rebubble may come back to haunt you again and again until the day your soul dies, which sadly, may be never.
+-You rebubble the memory and... yes!!! People LOVE this memory. It's scoring more likes than anything you've ever bubbld! You bask in your popularity for a few days, until it all dies down. And then... nothing. A familiar feeling of emptiness returns. It is the perpetual existential malaise of the afterlife, and a nearby horrorterror feasts off your psychic despair. The hideous beast balloons to twice its former size, and issues a deep gurgle of ecstasy.
+-You rebubble a memory and it is extremely well received by your followers. You're on a roll here. You've been rebubbling on all cylinders lately, and it's been attracting quite a lot of attention. You have more followers than you know what to do with. Keep it up! If you can manage to get everyone in the afterlife to follow you, the dark gods will grant you the boon of resurrection.
+-You rebubble the memory and are about to get on with your day, when you notice something weird in your feed. It seems like a spamghost has hacked your soul, and has been rebubbling weird advertisements to your followers for the last... 50 MILLION SWEEPS??? This is a disaster. You have almost no followers left. Most of the ads are for gross horrorterror porn and flagella erectile medication. ugh
+-You rebubble the memory but before you do... YOU SHIT ALL OVER IT! You really rip into the original author of the memory, and treat it to a scathing review. You don't have much to say that's original, and you don't feel very good about yourself, so you might as well base your entire afterlife presence on hostile smear tactics to get attention for yourself that you would struggle to attract otherwise. The horrorterrors refer to you as The Chosen One, and fantasize about you when they copulate.
+-You accidentally rebubble this memory to the wrong feed. It turns out to be badly off topic, and you lose a couple followers. You immediately dispatch another bubble specifically to tell them to go fuck themselves.
+-You rebubble this memory and forget to tag it. All of your followers are severely triggered by its content. You can hear their tortured moans all the way from triggered soul purgatory, which is in the belly of an enormous beast that is so wretched, if you even glance at it, tears instantly come gushing out of your eye sockets, form a liquid boot, and kick you in the crotch. 
+-You rebubble this memory and one guy who follows you decides to be a huge pain in the ass for some reason. He baits you into a publicly rebubbled argument which lasts all day. When it's finally over, you look back at the meaningless exchange and ask yourself "what am I doing with my life?" By which of course you mean death.
+-You rebubble this memory and it receives many comments. None of the comments appear to be made by people who have had any education whatsoever.
+-You rebubble this memory, and no one understands it at all. People say things that are so ignorant, you want to go curl up into a tiny ball and pray for a swift second death.
+-You rebubble this memory, and it gets almost no likes OR hates. People seem to have no opinion about it at all. Which is actually the worst imaginable outcome. It is a fate 10 times worse than death, and 100 times worse than second death.
+-Congratulations! That was the rebubble that pushed you over the edge. You are now OFFICIALLY BUBBLR FAMOUS!
+-Oops. That memory you just rebubbld was in violation of the furthest ring's content policy. The administrators (horrorterrors) have suspended your soul and you are now blocked from rebubbling memories (unless you really want to).
+ DAVE/_EBUBBLES: hey so what sort of insane loot did you rake in today
+ DAVE/_EBUBBLES: i just found an unopened container of apple juice in my closet it is like fucking christmas up in here
+ DAVE/_EBUBBLES: are you suggesting someone put piss in my apple juice at the factory
+@@ -1838,73 +1868,110 @@ DAVE/_EBUBBLES: oh shit grandpa egbert juniordad totally snapped
+ DAVE/_EBUBBLES: juggalos
+ ARANEA: There you are! 
+ ARANEA: Haven't seen much of you since you joined us in the afterlife. I know you are "royalty" and all, 8ut it isn't very socia8le of you to lock yourself in your lavish moon hive forever.
++ #Everyone has missed you!
+ MEENAH: well im here now arent i
+ ARANEA: Yes. And it's good thing you are. I was just a8out to come find you, so we could discuss the recent... Calamity. Out in the a8yss.
++ #Wordplay #8 letter words #Oh yes
+ MEENAH: yeah!!! so you saw it too huh
++ #splosions
+ MEENAH: that was the guy right
++ #skull guy #laser breath
+ MEENAH: lord somefin
++ #uh
+ MEENAH: clamiborn? whatd you say his shit was again
+ ARANEA: I'd try to avoid saying his true name.
++ #8ad juju
+ MEENAH: whats it matter
+ MEENAH: hes already here aint he
++ #heheh
+ ARANEA: I guess. 8ut yes, the Lord of Time was responsi8le for the destruction of that dream 8u88le, and the murder of all those innocent ghosts.
++ #Ghost murder #Second death #Soulicide
+ MEENAH: innocent ghosts
++ #...
+ MEENAH: killin ghosts as a thing that can happen is seriously the dumbest shit i ever heard 
++ #dumb
+ ARANEA: I don't make the rules, Meenah. I merely o8serve them, and explain them thoroughly to anyone who will listen.
++ #Like you
+ MEENAH: yeah 
+ MEENAH: last thing i need is anemonemore of your lobstervations
++ #fishpuns #2xcombo #booyeah
+ MEENAH: anyway that explosion kicked ass
+ MEENAH: splosions rule the school!!! 38D 
++ #like school of fishes i mean #38D #38D #38D
+ ARANEA: I agree that it's more excitement than we've seen here for millenia. 8ut all of us here in the afterlife are in serious danger of 8eing extermin8ed!!!!!!!!
++ #Um........
+ ARANEA: Again.
++ #!!!!!!!!
+ MEENAH: yeah i got that
+ MEENAH: i figured id have to be the heroe and bail you suckas out again
++ #this time i might not even blow yall up w a bomb
+ ARANEA: Oh really?
+ ARANEA: What exactly is your plan?
++ #I'm very curious!
+ MEENAH: to get all us ghosts here to team up and kill that asshole
++ #duh
+ ARANEA: What!
+ ARANEA: Oh, Meenah. That is such a terri8le idea.
++ #Poor death choices
+ MEENAH: yeah right
+ MEENAH: like you have a better idea
+ ARANEA: As a matter of fact, I do! ::::)
+ MEENAH: so where is everymoby i wanna talk to them bout somefin
++ #dead fronds #ghostbros #haunt pals #idk
+ ARANEA: I 8elieve most of our friends have gathered in this dream 8u88le.
+ ARANEA: You should 8e a8le to find them if you explore a 8it.
+ ARANEA: What do you want to talk to them a8out?
+ MEENAH: gotta get the gang back together
++ #alpha troll reunion yo
+ MEENAH: take down the douche of time
+ MEENAH: you say hes invincible but i think thats exactly the kind of loser bs that made us lose like a bunch of fuckin losers in the first losin place
++ #losers #losing experts #lossmasters #failpros
+ MEENAH: we can do it if we all like
+ MEENAH: work together and shit
++ #teamfork #lol
+ MEENAH: if we build an army
++ #or maybe...
+ MEENAH: a G)(OST army 38D
+ MEENAH: think a how glubbin sick would that be
++ #so sick
+ ARANEA: Sick, perhaps. 8ut not a very good strategy!
+ ARANEA: You will just 8e leading everyone into permanent o8livion. At least you will without coming up with a 8etter plan first.
+ MEENAH: then whats your awesome idea
+ ARANEA: To 8e a little more patient. 
++ #Patience #Peixes #Alliterative assonance
+ ARANEA: I have 8een following clues regarding the wherea8outs of a secret weapon that may 8e the key to defeating him. 
+ MEENAH: oh reely
+ MEENAH: whats the weaprawn
+ ARANEA: The weaprawn........ weapon, I mean, is not a what, 8ut a who.
++ #Weaprawn? #Really, Meenah?
+ ARANEA: She is the other cheru8. The Lord's female counterpart, who once occupied the same 8ody.
++ #Aliens
+ ARANEA: 8ut when they reached maturity, his personality dominated the host, assuming complete control. 
++ #Xeno8iologically fascinating species
+ ARANEA: She technically died that day, and now her spirit presuma8ly roams somewhere out here in the Furthest Ring.
++ #Or so the legend goes
+ ARANEA: We need to find her 8efore he does. He will surely want to finish her off.
+ MEENAH: cherub
++ #uh
+ MEENAH: what
+ MEENAH: ok i didnt really follow any of that junk so uh
+ MEENAH: you go right ahead and find your cherub girl
+ MEENAH: ima be right here building my ghost army B--E-EYOTC)(
++ #ghost army #beeyotch #fyeah
+ ARANEA: Very well. 8est of luck with that!
+ ARANEA: 8ut try to remem8er it has 8een a very long time since any of our friends have done anything important at all.
++ #Like, almost eternity
+ ARANEA: It may 8e more difficult to find recruits for your army than you think.
++ #I hope you like frustrating conversations
+ MEENAH: please
+ MEENAH: ok i admit that mosta them were chumpy as globes when we was tryin to win our game
++ #chumps #shame globes #chumpiness #globage
+ MEENAH: but this time when im through with em they will be the loyal murderous mob of cherubfucking fury our people were always supposed to be
+ MEENAH: and if you dont think i can do that then N-E-ED I R-EMIND YOU who i grew up to be in some another dimension or whatever
++ #batterwitch #waterbitch #omfg #yes #yes #yes #yes
+ ARANEA: You needn't remind me at all, Your Condescension.
+ ARANEA: I 8elieve you were hatched to 8e a tyrant, and I pray that your campaign of 8ullying and intimidation goes swimmingly. 
++ #::::)
+ MEENAH: aw youre tha best serket cmere 38*
+ MEENAH: hey!!!!
+ ROSE: Hello.
+@@ -1912,6 +1979,7 @@ MEENAH: its uh
+ MEENAH: YOU
+ ROSE: Yes.
+ MEENAH: human right
++ #where da horns at #so weird
+ ROSE: That's right.
+ ROSE: Rose, more specifically.
+ MEENAH: who cares listen human girl wanna ask ya somefin
+@@ -1920,45 +1988,67 @@ MEENAH: wut
+ ROSE: Talking to people.
+ MEENAH: hey eff you
+ ROSE: It's ok that you are. I'm not trying to criticize.
++ #I can kind of relate, actually.
+ ROSE: I've heard some things about you. That pink rocky environment back there. That's a memory of your home, right?
++ #Beforan moon
+ MEENAH: 
++ #...
+ ROSE: You renounced the throne and ran away to the moon, didn't you? And then you lived there completely alone for... how many years?
+ MEENAH: what are years
+ ROSE: I think I'm starting to lose track of what a year is myself. That seems to be what happens when you spend enough time out here.
++ #Abyss madness #Meteor fever
+ MEENAH: uh
+ ROSE: I'm just curious about you. You seem like an interesting person who probably has a lot of stories to tell.
++ #Also, I like your braids.
+ ROSE: From what I understand, you discovered something on the moon which originally contained your copy of the game? Is that true?
+ MEENAH: ...
++ #dot #dot #dot
+ ROSE: Maybe we could spend some time together and get to know each other? When you have the chance, of course.
+ MEENAH: man
+ MEENAH: youre like an alien windfang
+ MEENAH: all wordy and nosy and nice to me for no fishcernible reason
++ #altpun = #discernabubble
+ MEENAH: you even have the same cod tier jammies on
++ #goddamn ugly
+ MEENAH: just another bright orange blubbermouth
++ #fuchsia blows orange out of the water
+ MEENAH: lets just forget i said anyfin kay
+ MEENAH: sooooo
+ MEENAH: extra talky human
+ MEENAH: its me again
++ #suuup
+ ROSE: Hey!
++ #:)
+ MEENAH: got a porpoisition for ya
+ MEENAH: you know that bad guy
+ MEENAH: just wrecked the sky and killed some dead mofos
++ #rainbow barfer
+ ROSE: Lord English?
+ ROSE: Yes, I know of him.
+ MEENAH: wanna team up with me and kill him or...
+ ROSE: Absolutely.
+ MEENAH: yay!!!! 38D
++ #word
+ ROSE: But later. 
++ #Much later, really.
+ MEENAH: gfd
++ #ugh
+ ROSE: We can't interrupt the plan which has been put into inexorable motion. Or for that matter, the meteor we're traveling on, which has been similarly propelled.
++ #Troll Isaac Newton
+ ROSE: We have to rendezvous with our rebooted "ancestors," as it were, and help them win their game.
++ #Alpha players #Teen guardians #Fun
+ ROSE: In the process, we will ideally become stronger and more experienced. Only then will we be ready to help you defeat him.
++ #Additional fun
+ MEENAH: oh my glub you really are serketting the fuck outta this
++ #blahblahblahblahblah
+ MEENAH: come on stop overplanning lets all just fly away together and wreck his shit
+ MEENAH: there are like billions a ghosts out here right we got numbers on our side
++ #BILLIONS #i mean #probably
+ ROSE: Yes. But even if I agreed, I couldn't just fly away with you now.
+ ROSE: I'm not even standing here. I'm asleep on our meteor. This is a dream projection you're talking to.
++ #Kind of like a hologram, I guess?
+ MEENAH: wut
++ #wut
+ ROSE: You're new to dream bubbles, aren't you.
+ ROSE: I would be more than happy to explain to you how they work in extensive detail.
+ MEENAH: ugh
+@@ -1967,99 +2057,132 @@ MEENAH: later rosefang
+ MEENAH: oh hey the maryam looking girl
+ MEENAH: what is the deal with you
+ KANAYA: The Deal With The Maryam Looking Girl Is That She Is Wondering What The Deal Is With The Peixes Looking Girl And Specifically Why The Former Has Piqued The Latters Curiosity
++ #The Deal With Things #The Topic Of Wonder #People Looking People
+ MEENAH: why
+ MEENAH: dunno
+ MEENAH: seams to me two maryams is overdoin it a bit
++ #i mean #two captors id undersand
+ MEENAH: one was more than enough 
+ KANAYA: The Same Thing Occurred To Me
+ MEENAH: you arent much like the one we had
++ #u talk weird
+ MEENAH: kind of a tough act to follow to be fair though
+ KANAYA: The Same Thing Occurred To Me Yet Again
++ #Things That Are The Same #And How They Occur To People
+ MEENAH: looks like you got the rainbow drinker thing going on too
++ #damn #ur blindin me girl #the goggles do nofin
+ KANAYA: I Suppose
+ MEENAH: so
+ MEENAH: you go around lookin like that all the time or
+ KANAYA: To My Knowledge Yes
++ #Kind Of Personal?
+ MEENAH: heh
+ KANAYA: Is There An Alternative Degree Of Auto Luminescence I Should Be Aware Of
+ KANAYA: And If So How Foolish Should I Feel For Only Learning About It Now
++ #On A Scale Of One To Idiot
+ MEENAH: im no drinker buff but yeah our maryam figured out how to control it
+ KANAYA: Really
+ MEENAH: she probably had more time to figure it out than you
+ MEENAH: when youre stuck in a busted session for three sweeps without much to do you figure some stuff out about yourself
+ MEENAH: not my buzzbug wax but maybe you should axe her
++ #buzzbugs #bzzzzz #hehe
+ KANAYA: I Dont Think So
+ MEENAH: why not
+ KANAYA: Id Like To
+ KANAYA: But I Cant Get Up The Nerve
+ MEENAH: aw come on shes cool
++ #you check out her ink yet #fucken dope
+ KANAYA: Yes
+ KANAYA: She Is An Amazing Person
+ KANAYA: And It Is Very Intimidating
+ KANAYA: I Had The Same Feelings Of Trepidation The Last Time I Encountered Someone I Admired
+ MEENAH: oh yeah who was that
+ KANAYA: ...
++ # 
+ MEENAH: huh
+ MEENAH: you mean
+ MEENAH: her over there
+ MEENAH: talky girl in the orange nighty jams
++ #her??
+ KANAYA: ...
++ #  # 
+ MEENAH: i seaaa
+ MEENAH: saw you two hangin together last time
+ MEENAH: she your g frond
+ MEENAH: the red sort i mean
+ KANAYA: ...
++ #  #  # 
+ KANAYA: Maybe
++ #  #  #  #  #Additional Bashfully Blank Hash Tags
+ MEENAH: thats adorbs yo
+ MEENAH: hey maryam lookalike lets go kick the fuck outa skullzilla
+ KANAYA: I Was About To Respond Favorably
+ KANAYA: But Then I Glanced Over At Rose
+ KANAYA: And She Was Just Shaking Her Head At Me Very Slowly And Kind Of Knowingly
++ #The Limitless Mysteries Of Her Wisdom Know No Bounds #Human Sarcasm
+ MEENAH: no u silly drinker shes just fucking with you
+ KANAYA: Oh Probably
+ KANAYA: But Lets Be Realistic Here The Answer Was Probably Going To Be No Anyway
++ #Bad Plan
+ MEENAH: aight well guess im going to drink skull guys blood all by my shellf then
+ KANAYA: I Bet It Tastes Really Bad
++ #Gross Monster Blood
+ MEENAH: haha yeah
+ MEENAH: well later
+ MEENAH: hey cape guy
+ MEENAH: youre uh
+ MEENAH: human whats his cape
++ #with the shades
+ DAVE: thats exactly my name
++ #see also #shaggy 2 cape
+ DAVE: everyone stupidly insists on calling me dave though
+ MEENAH: so davecape
+ MEENAH: wheres your bro
+ DAVE: my bro
+ DAVE: hes dead
++ #like #the ghostless kind of dead i think
+ DAVE: unless you mean the kid version as in the guy we both saw with the pointy shades
++ #kid bro #wtf
+ DAVE: remember he grabbed my sleeping teen mom and flew away and that was the last i saw of him
++ #thats sorta what he does #just vanishes like a mysterious motherfucker
+ MEENAH: no no
+ MEENAH: not that guy
+ MEENAH: actually i gave him a sweet high five a little while ago but thats not who i mean
++ #one of the best hi 5s eva #dudes a pro
+ DAVE: what when did you give him a high five
+ DAVE: why wasnt i informed of this high five that took place
++ #not cool
+ MEENAH: who cares im talking about your other bro
+ MEENAH: the cool shouty kid who got po'd and went to clamscray the f out
++ #madvantas
+ DAVE: oh karkat you mean
+ DAVE: i dunno hes around
+ DAVE: i saw him talking to his ancestor a while ago
++ #or uh #being talked too
+ DAVE: dont think he likes him very much
++ #hilarious toolparty
+ MEENAH: what
+ MEENAH: shouty shouldnt be hanging out with that glubbin dork
+ DAVE: i doubt he actually wants to but you know how it is with ancestors
++ #ancestors #you know how it is
+ MEENAH: ...
+ DAVE: ok maybe you dont since i guess youre actually an ancestor yourself
+ DAVE: or you were to some dead girl i never met but anyway
++ #i think her name was fieri or something
+ DAVE: they just seem to
+ DAVE: i dont know
+ DAVE: have this inexplicable power over you
+ DAVE: i mean look at kanaya over there shes a fucking shambles about hers
++ #shambles #kanaya #yeah
+ DAVE: like it isnt even rational or anything they just represent something you measure yourself up to
++ #dude come get the ruler
+ DAVE: and even though they probably arent all theyre cracked up to be it just kind of gets in your head you know
+ MEENAH: naw
+ MEENAH: my ancestor was fuckin lame
+ MEENAH: otoh in another tunaverse i grew up to be an ice cold murderbitch in charge of everybody which makes perfect sense
++ #includin a pair of human clown slam poets?? #ahaha
+ MEENAH: so the only one i got to measure up to is me and it turns out i measure up awesomely
++ #fuchsia ruler
+ DAVE: and on that day human whats his cape learned the only real treasure was a forced sense of self esteem
+ DAVE: he thanked the punky sea princess for her radical wisdom and then she went away
+ MEENAH: i think
+@@ -2067,115 +2190,160 @@ MEENAH: that
+ MEENAH: maybe i was just owned?
+ DAVE: yeah i saw it
+ DAVE: i was looking up in space doing a little monster gazing right
++ #daves private chill time #eldritch red lobster #bargain seafood buffet #bored
+ DAVE: when suddenly i thought my glasses shattered
++ #ben stiller almost fucking tornadoed in his grave
+ DAVE: but it wasnt the shades turned out it was space itself that cracked
++ #fuckin relief #best bro gave me these
+ DAVE: and i listened and i heard the screams and killing and stuff
++ #monsters dying #ghosts dying #atrocious problems
+ DAVE: havent slept well since that
+ DAVE: well i guess im sleeping alright at the moment
++ #oh yeah #i forgot
+ DAVE: cause im here in a bubble talking to you but yeah in general my shuteye has been boned up the protein chute
++ #troll anatomy #lewd #maybe?
+ DAVE: keeping myself busy with awesome projects helps a bit i guess
++ #awesome projects
+ MEENAH: then you must want to kill the guy even worse than me
+ MEENAH: why dont you join me we can fly away and fuck him up together 38)
++ #what good is a cape even #if you wont fly away to clobber badguys
+ DAVE: nope
++ #nah
+ DAVE: appreciate the offer but im just gonna hang tight and work on my ebubbles
++ #dave_ebubbles
+ MEENAH: e what
+ DAVE: ebubbles theyre awesome
++ #how is this not awesome
+ DAVE: its just some ridiculous shit i figured out how to do here
+ DAVE: this whole place runs on memories so ive been messing around with that 
++ #just as long as you dont ask me how #we are cool
+ DAVE: turns out i dont even really need the internet for shenanigans i can just exploit the afterlife
+ MEENAH: the fuuuck
+ MEENAH: i know youre down in the dumps kid but that sounds like a stupid waste of time
++ #stupid waste of time
+ MEENAH: now come on lets go whale on a cherub
+ DAVE: nah
++ #yes lets #just fucking with you #no
+ DAVE: i mean
+ DAVE: i think i might be "supposed" to kill him anyway?
++ #air quotes
+ DAVE: thats the feeling i get like there are all these clues about that ive kinda noticed
++ #remember that bullshit about the pimp being in the crib? #hahaha oh god
+ DAVE: so if i am THE GUY that needs to take him down then fine ill do that if and when i get hornswoggled into some big showdown with a ridiculous green space pimp or whatever he is
++ #i heard he has a gold tooth #are you fuckin kidding me
+ DAVE: i dont know i think im not really cut out for the whole reluctant hero shtick
++ #im better at comics
+ DAVE: like the whole scene is so obvious and trite and i cant even tell if my reluctance is ironic or if im playing it straight
++ #reluctant before it was cool #and before i was willing
+ DAVE: like ill wonder if im being reluctant enough to cut it or if im actually just being reluctant to be reluctant
++ #how reluctant do you even have to BE to DOOOOO something like etc etc #sbahj
+ DAVE: it turns into like meta reluctance and then all i can think about is how fucking stupid the whole thing is
++ #i also think about puppets sometimes... #unrelated
+ DAVE: i think im probably just too self aware for this hero bullshit so dont even waste your time on me
++ #ironic self pity
+ MEENAH: wow
+ MEENAH: sooooo cooooooool
+ MEENAH: NOT
+ DAVE: wait
++ #uh #w #t #f
+ DAVE: you want to "be me"?
++ #air quotes
+ MEENAH: yeah why not
+ DAVE: ok well without getting too deep into the issue of how absurd that request is on the very face of it
++ #a face presently being palmed
+ DAVE: its just not going to happen
+ DAVE: i mean not yet anyway not this early in your little dream bubble quest you got going on here
+ MEENAH: shut up dawg just lemme walk around as you and stuff
++ #talk at peeps in your koolkid way #maybe play a different tune
+ DAVE: no
+ MEENAH: why
+ DAVE: i really dont think we should get too meta about this
+ DAVE: just
++ #ok
+ DAVE: look
+ DAVE: youre on a mission to gather up all your dead friends and build an army or something
++ #cant believe im even explaining this
+ DAVE: personally i think thats a shitty idea but you are clearly motivated to do that
+ MEENAH: yea 
++ #tru dat
+ DAVE: so why would you waste time going around "being other people" it doesnt make any fucking sense
++ #air quotes
+ DAVE: for instance you cant be anybody in this fucking sandy beach area because ostenibly youre just charging through this place looking for your friends
+ DAVE: dammit try to play the part at least somewhat
++ #ahahaha #already too meta #i give the fuck up
+ MEENAH: aw man
++ #boooring
+ DAVE: maybe when you catch up with your posse you can be some of those guys
+ DAVE: hell maybe you can be some of us too after the whole thing youre trying to do winds up being this huge predictable disappointment
+ DAVE: but that would have to be in a different area
+ MEENAH: what area
++ #what? #you cray
+ DAVE: like a different goddamn bubble zone
+ DAVE: like someones memory of a magic fucking forest or home village or some shit
+ DAVE: i dont know just somewhere the fuck else
+ DAVE: now go away
++ #of this #let us never speak again #be dave? #bitch please
+ MEENAH: FIN-E
+ Hey! Get lost kid, this is MY HIDING PLACE.
+- Can't you see English is coming for me???
++Can't you see English is coming for me???
+  #DOTA #uh #again
+ HE IS COMING FOR US ALL.
+ You got a JUJU!
+- An EFFIGY, to be precise. It has magical properties binding it to the mortality of someone, depending on what hat it wears. Hey, maybe you'll hang it from this tree? Nah, that's a bit morbid.
++An EFFIGY, to be precise. It has magical properties binding it to the mortality of someone, depending on what hat it wears. Hey, maybe you'll hang it from this tree? Nah, that's a bit morbid.
+  #you'll just hock it to some chump
+ You got the THORNS OF OGLOGOTH! 
+- Any sane adventurer would cast these instruments of the occult into the furthest ring and forget they ever existed. And... it looks like someone did just that?
++Any sane adventurer would cast these instruments of the occult into the furthest ring and forget they ever existed. And... it looks like someone did just that?
+  #a wise move
+ You got a bunch of THROWING STARS!
+- Whoa these are badass. Maybe you'll keep a few instead of selling them all.
++Whoa these are badass. Maybe you'll keep a few instead of selling them all.
+  #unless someone blows you away with an offer of course
+ You got a pair of TIME TABLES! 
+- Use these to travel through time. Which in the furthest ring, doesn't always mean much. Traveling back in time could also transport you millions of lightsweeps away. Probably better to just sell them to an eccentric billionaire.
++Use these to travel through time. Which in the furthest ring, doesn't always mean much. Traveling back in time could also transport you millions of lightsweeps away. Probably better to just sell them to an eccentric billionaire.
+  #ooh, like that kid across the water there! #you bet he's loaded
+ You got an ECHIDNA STATUE! 
+- An obviously not-to-scale depiction of the denizen Aranea consulted with to learn how to scratch your session. The decision to scratch of course came with MAJOR CONSEQUENCES, and you guess it's only now that the true extent of those consequences are fully apparent. Looks like it's time to clean up her mess.
++An obviously not-to-scale depiction of the denizen Aranea consulted with to learn how to scratch your session. The decision to scratch of course came with MAJOR CONSEQUENCES, and you guess it's only now that the true extent of those consequences are fully apparent. Looks like it's time to clean up her mess.
+  #oh, also you can probably make BANK off this thing
+ You got a SEWING MACHINE!
+- Oooooh this looks REALLY expensive, you bet you could... wait. What's she looking at? The Maryam girl is looking at you funny. What, is this thing hers? You don't want to start any trouble over this dumb gizmo. You slowly put it back in the chest, very casually like it ain't no thing.
++Oooooh this looks REALLY expensive, you bet you could... wait. What's she looking at? The Maryam girl is looking at you funny. What, is this thing hers? You don't want to start any trouble over this dumb gizmo. You slowly put it back in the chest, very casually like it ain't no thing.
+  #you'll come back and swipe it later when she's not around
+ You got a FUCHSIA POTION!
+- Legend says this enchanted potion is supposed to - oh GOD it's more troll blood. Wait this is ROYAL blood. What an absolute outrage that probably some commoner had the audacity to draw royal blood. You are ALMOST mad enough not to not give a shit.
++Legend says this enchanted potion is supposed to - oh GOD it's more troll blood. Wait this is ROYAL blood. What an absolute outrage that probably some commoner had the audacity to draw royal blood. You are ALMOST mad enough not to not give a shit.
+  #you chuck it over the edge #glass shatters #someone below says 'ow'
+ You got a JUJU!
+- What's up with all these jujus lying around? Jujus are very wide ranging sorts of magical objects. You never know what form they'll take. This one is particularly useless though. It has the power to travel through time. Into the future only, though.
++What's up with all these jujus lying around? Jujus are very wide ranging sorts of magical objects. You never know what form they'll take. This one is particularly useless though. It has the power to travel through time. Into the future only, though.
+  #at exactly one second per second
+ You got a DERSITE TABLOID!
+- Says some human girl is dead. You don't recognize her. Inside is the usual kind of sensationalizing sleaze you're used to seeing from these. You spent a long time on Derse during your game. You always enjoyed reading these. They were almost always about assassinations.
++Says some human girl is dead. You don't recognize her. Inside is the usual kind of sensationalizing sleaze you're used to seeing from these. You spent a long time on Derse during your game. You always enjoyed reading these. They were almost always about assassinations.
+  #some of which were yours
+ You got a RIBBITAR!
+- Foes everywhere tremble at the mere sight of this lethal amphibious scourge. So overwhelming is their terror that... ha ha, yeah right. This sword is almost too ridiculous for words. It's a nice conversation piece though.
++Foes everywhere tremble at the mere sight of this lethal amphibious scourge. So overwhelming is their terror that... ha ha, yeah right. This sword is almost too ridiculous for words. It's a nice conversation piece though.
+  #aw shit is that made of ruby??? #COME TO MAMA
+ You got a copy of COMPLACENCY OF THE LEARNED!
+- Wow this looks really... huh? It just disappeared from your hand in a crazy blur. What the... oh, that human girl has it. She looks like she's enjoying it a lot more than you ever would. You'll let her have this one.
++Wow this looks really... huh? It just disappeared from your hand in a crazy blur. What the... oh, that human girl has it. She looks like she's enjoying it a lot more than you ever would. You'll let her have this one.
+  #probably wasn't worth jack anyway
+ KANKRI: N9w I realize we've 6een at this f9r s9me time already, 6ut at the risk 9f derailing the dial9gue y9u initiated, and may I just say h9w thrilled I am that y9u did, Karkat, I w9uld just like qualify my entire analysis 9f y9ur "Alternian culture" 6y saying that in c9ntrast with life 9n 6ef9rus, while y9ur pe9ple may have 6een engaged in vi9lent, lethal class struggle f9r milli9ns 9f sweeps, 6y n9 means d9es this imply that the 6ef9ran way 9f life was entirely with9ut pr96lematic elements, perhaps even m9re distur6ing and insidi9us f9r their lack 9f ackn9wledgement and 9pen discussi9n, particularly as a c9nsequence 9f what in my view were widely and dismayingly unexamined systemic s9cial injustices resulting fr9m the entrenched p9wer dynamics in play, dynamics strikingly similar t9 th9se 9f y9ur planet's markedly m9re 6ellic9se iterati9n, which has 9nly served t9 fully vindicate my hyp9thesis that such a hierarchy is really predicated 9n intrinsic dysfuncti9n, and failure t9 shift all the usual narratives and undiagn9sed pr96lems int9 an 9pen, judgment-free disc9urse thr9ugh which pr96lematic issues are c9nstructively channeled int9 m9re intelligently pr96lematized avenues 9f discussi9n.
+ KANKRI: N9w 6ef9re I c9ntinue, it is 9nly decent 9f me t9 warn y9u a69ut certain triggers that are surely ahead in this essay. I mean c9nversati9n. Triggers include 6ut likely will n9t 6e limited t9 class 9ppressi9n, culling culture and vi9lence against gru6s, lusus a6use, c9mplementary and anal9g9us hate speech, pail filling, slurries and 9ther c9ncupiscent fluids, lifespan shaming, a6leist slurs, pr9lix dissertation... Actually, may6e it w9uld 6e easier f9r y9u t9 list y9ur triggers, and I'll d9 my 6est t9 av9id th9se t9pics, 9r navigate them m9re delicately, if at all p9ssi6le?
++ #TW #9ppressi9n #culling #gru6 vi9lence #lusus a6use #hem9ph96ia #pails #slurries #a6leism
+ KARKAT: 
++ #
+ KANKRI: Great. It s9unds like y9u d9n't have any triggers, at least n9ne that y9u kn9w a69ut. I'll pr9ceed with cauti9n nevertheless. Just please let me kn9w if y9u start feeling triggered 6y anything I'm saying, and we can take a 6rief time-9ut while y9u summ9n y9ur m9irail t9 help pacify y9u, assuming y9u have 9ne. N9t that I'm presuming y9u d9, 6ut I heard that y9u did, is that c9rrect? If n9t, I ap9l9gize. I further ap9l9gize if y9ur 9rientati9n precludes the p9ssi6ility, as a pale ar9mantic, panquadrant demir9mantic, s9mething in the gray palesexual department 9r such, and h9pefully y9u are n9t triggered 6y such presumptu9us c9ncillian9rmative language. It w9uldn't 6e the first time I was guilty 9f such an inexcusa6le micr9aggressi9n, and I am n9t s9 96livi9us t9 my 9wn r9mantic privilege t9 6elieve it will 6e the last time either.
++ #c9ncillian9rmativity #micr9aggressi9ns #r9m privilege #presumptu9us #m9irails #inexcusa6le
+ KARKAT: 
++ #
+ KANKRI: I'm glad I 6r9ught up the su6ject 9f unexamined privilege, 6ecause it d9vetails 6eautifully with the p9int I was a69ut t9 make regarding 6ef9ran s9ciety and its savage um6ral p9tentiality which later manifested thr9ugh the kind 9f Alternian 6rutality y9u are all t99 familiar with. Th9se in the higher echel9ns 9f the hem9spectrum such as the ceruleans, 9r "6lue 6l99ds" (careful, 6eing l99se with such termin9l9gy is 9pening the fl99dgates t9 a wh9le h9st 9f t9xic signist language and hem9ph96ic slurs), when addressing the challenges faced 6y th9se l9wer 9n the spectrum, such as the midhues 9r in particular warm castes like um6ers, 9chres, 9r "rust 6l99ds" (an9ther slur, highly pr96lematic, deeply 9ffensive and triggering termin9l9gy, str9ngly impl9ring y9u steer clear 9f this term), they w9uld 6e well advised t9 check their cerulean privilege, particularly 6ef9re dismissing hardships 9r marginalizing claims 9f 9ppressi9n, which can 6e difficult f9r them t9 identify 9r empathize with fr9m their advantage9us p9siti9n within the 6ef9ran//Alternian p9wer structures.
++ #d9vetail #pr96lematic #p9wer structures #t9xic signist language
+ KARKAT: 
++ #
+ KANKRI: And s9me may argue that in 9ur peaceful "ut9pian" culture that we have freed 9urselves fr9m injustice and disparities in privilege in a p9st-scarcity ec9n9my, largely equal rights distri6uted acr9ss the hem9spectrum, and theref9re exist in a "p9st-spectral w9rld" (laugh 9ut l9ud), and theref9re there is n9 need t9 champi9n imp9rtant s9cial causes and there is n9thing left t9 de6ate, 6ut really n9thing c9uld 6e further fr9m the truth. Y9u just need t9 educate y9urself and carefully investigate the l9ngstanding p9wer dynamics in play. F9r instance, a seemingly "harmless" remark fr9m a cis6l99ded cerulean t9ward an um6er 9r G9d f9r6id a 6urgundy 9r yes even a warm-identifying physically-c99ler caste, a69ut their very l9ng term future plans such as 9n the 9rder 9f centuries, then this may pr9ve t9 6e a very hurtful micr9agressi9n due t9 the fact that l9whues cann9t p9ssi6ly live that l9ng themselves, and the m9re priviliged caste c9uld easily 9utlive d9zens 9f generati9ns 9f midhues 9r hundreds 9f generati9ns 9f 6U9Ys (6urgundy-um6er-9chre-yell9wgreens, n9te please av9id descri6ing the latterm9st as "lime 6l99ds" as it has hist9rically 6een used as an especially vici9us epithet). Such remarks can further trigger painful reminders 9f h9w c99ler castes, t9 s9me extent 9JAs, 6ut CIPs and R9yal-Vs in particular, have 6een a6le t9 use their tremend9us lifespans 9ver the millenia t9 gain a strangleh9ld 9ver the s9cial 9rder, have 6een a6le t9 c9mpletely dictate 9ur s9cietal ev9luti9n 6y ensuring 9nly their cultural agendas and narratives receive the dial9gue's air supply, assuring the c9dificati9n 9f th9se resultant ideals and deciding what "n9rmalcy" entails, and sadly these a6s9lutes 6ec9me internalized acr9ss the full spectral range, even within th9se 9f m9st c9mpr9mised privilege, and s9 y9u 6egin t9 see the cyclical nature 9f the dysfuncti9n and the resulting inertia against p9sitive change and raising awareness 9f the m9st underpr96lematized issues, which I think we can agree, is pretty pr96lematic.
++ #p9st spectral w9rld #l9l #6U9Ys #9JAs #CIPs #R9yal Vs #narratives #agendas #narratives #lifespan privilege #dysfuncti9n #aweness #agendas
+ KARKAT: 
++ #
+ KANKRI: And really, it's every9ne's 6usiness t9 examine their privilege, even 6urgundies, wh9 may 6e su6ject t9 the pitfall 9f 6elieving inc9rrectly there are n9ne 9n the scale 6eneath them wh9m they enj9y certain privileges 9ver, which 9ff-spectrum tr9lls will never kn9w, such as th9se identifying as 9ther6l99ds 9r caste-multiples, "p9ly6l99ded", any wh9 hem9gl96ically ID as having a caste which manifests n9where (as yet kn9wn) in any9ne physically, 9r f9r that matter 9ffspecs wh9 physically d9 p9ssess such a 6l99d type, 9r "mutants" (VERY pr96lematic term, highly triggering t9 s9me, 6e warned), such as y9u and I, Karkat. 6ut this puts us 69th in a situati9n which t9 9ur kn9wledge uniquely all9ws us t9 understand and empathize with tragically underprivileged and unemp9wered gr9ups acr9ss all scuttles 9f life, thus aff9rding us 69th what I like t9 call a "uniquely underprivileged privilege", which, yes, is a kind 9f privilege we sh9uld 69th strive t9 check as well, whenever we can. This same uniquely underprivileged perspective as I'm sure y9u kn9w was disadvantaged up9n my p9st-scratch iterati9n as well, and while I have n9 d9u6t y9u justifia6ly came t9 revere that figure 9f y9ur planet's rich hist9ry and y9ur pers9nal lineage, and while his g9als 9f peace, equality, and a truly spectra6lind s9ciety, I'm afraid I pers9nally have tr9u6le c9nd9ning his meth9ds. I d9n't like t9 use the term "pr96lematic" lightly, 6ut, well, his tactics were n9thing if n9t massively pr96lematic, t9 say the least, empl9ying vi9lent uprising t9 effect change, and em6laz9ning his mark up9n hist9ry and his faithful f9ll9wers with the salty fl9urish 9f a single rude, sh9uted swear w9rd, it's n9t t9 my taste even th9ugh he is wh9 I w9uld have gr9wn up t9 6e in an9ther life. 6ut n9, I prefer t9 effect s9cial change thr9ugh rati9nal, h9nest disc9urse and c9ntri6uting t9 9ng9ing dial9gues, f9cusing 9n what sh9uld 6e the real g9als, thr9ugh keen adherence t9 the discipline 9f Pr96lematics, ensuring that we stay f9cused 9n successfully pr96lematizing a wide range 9f direly underc9mplicated s9cial dilemmas.
++ #underc9mplication #salty fl9urish #rude sh9uted swear w9rd #spectra6lind s9ciety #dilemmas #g9als #Pr96lematics #dilemmas
+ KARKAT: 
++ #
+ KANKRI: It's nice t9 see we agree 9n s9 much. May6e we are n9t s9 unalike, despite 9ur drastically different up6ringings. Anyway, as I was saying, the st9ry 9f y9ur ancest9r, and m9re imp9rtantly my exhaustive list 9f misgivings with his appr9ach t9 s9cial change, is quite a l9ng and ela69rate 9ne, 6ut it actually fits 6rilliantly within the larger m9saic which captures the 6r9ad str9kes 9f my p9st. I mean 9ur discussi9n. Trigger warnings f9r the f9ll9wing c9ntent include: ancest9r 6ashing, faith shaming, l9ud swearing, t9rture, 6urn w9unds, ship sinking... again, seri9usly, just let me kn9w if y9u 6egin t9 feel triggered 6y anything, even slightly. We'll pause and see if we can really expl9re th9se issues, and identify exactly h9w I may have invalidated y9ur struggles. With9ut further ad9, the st9ry is as f9ll9ws:
++ #TW #ancest9r 6ashing #shaming #swearing #t9rture #6urns #ship sinking #struggles #invalidation #misgivings
+ 
+ 
+ 
+@@ -2183,41 +2351,54 @@ KANKRI: It's nice t9 see we agree 9n s9 much. May6e we are n9t s9 unalike, despi
+ 
+ 
+ KARKAT: 
++ #......................
+ KARKAT: 
+ LATULA: d4mn grrrrl!!!!
+ LATULA: you f1n4lly m4d3 1t! h1gh f1v3!!!
++ #>8D
+ MEENAH: you know it
+ MEENAH: i am so fuckin ghostly now
++ #oOoOoO
+ LATULA: r1ght on grl!!!! dr34m bubz rul3!
+ LATULA: 4-l1f3 4LYF3!!!
+ MEENAH: wha
+ LATULA: 4h4h4 y34h. th4t should h4v3 sound3d l1k3 "4 l1f3 for lyf3" l1k3 'A' 4s 1n 4ft3r, but spok3n 4s 4 numb3r, th3n '4' 4s 4 homonym for th3 pr3pos1t1on 4nd stuff!!!!
++ #spok3n qu1rk confus1on
+ LATULA: you know how 1t 1s. 4 grlz gott4 s4cr1f1c3 und3rst4nd4b1l1ty for th3 s4k3 of r4dn3ss som3t1m3z.
+ MEENAH: preach1n to the group of coral s1ngers pyrope
+ LATULA: cor4l s1ng3rs? oh you m34n cho1r, 1 g3t 1t!!! but cor4l 4s 1n th3 funky sh1t und3rw4t3r 1nst34d, h4h4h?
+ LATULA: st1ll rock1ng th3 f1sh punz 1 s33. w3ll th4ts not r34lly th3 k1nd of r4dn3ss 1 w4s t4lk1ng 4bout, but 1ll l3t 1t sl1d3.
++ #punz #k1nd of l4m3
+ MEENAH: hey fuck you!
+ MEENAH: cant B-ELI-EV-E yall go shitting on my fish puns right outta the blowhole like that
+ MEENAH: as if your numbers bs and jacking zees on the end a words is any more rad than my baller wordplay
++ #or should i say #(s)word(fish)play? #nah that sux
+ MEENAH: i mean your skating and stunts are objectively rad ill give you that 
+ MEENAH: but you need to get off your high seahorse because practically NOFIN else about you is especially radder than average
+ LATULA: oh ch1ll AX3, p4ych3ck!!! 1 4m so j3rk1ng your fork!
+ LATULA: 1 know w3v3 h4d our 1ssu3z b3for3. but 1 could 4lw4ys s33 you h4d tru r4dgrl cr3d. you dont 3v3n know how h4rd 1t w4s tow1ng th3 R4D LO4D 4ll by mys3lf w1th you gon3 for so long!!!!
++ #tow1ng lo4ds h4rsh3s my gr1nds
+ LATULA: do you 3v3n know how l4m3 of 4 sc3n3 1t 1s b31ng th3 only l3g1t 1n your f4c3 pow3rg4m1ng grl 1n 4 bunch of bubbl3s full of brut4l pos3rz???
+ LATULA: wh4t 1m s4y1ng 1s, 1m psych3d to h4v3 you b4ck mp. h3y h1t m3 up top!
++ #H1 F1V3
+ MEENAH: uh sure
+ MEENAH: still wearing out the highfives i sea even after like what
+ MEENAH: eternity?
++ #still dont know how time works here
+ LATULA: fuck y34h grl.
+ LATULA: OH!!!!
+ LATULA: n3v3r 3v3n got to congr4tul4t3 you on how W1CK3D your r4d su1c1d3 bomb pl4n w4s! >8D
++ #k1ll3d th3 SH1T out of us
+ LATULA: n3v3r s4w 1t com1ng!!!! sur3 n3v3r sm3ll3d 1t com1ng, h3h. 
+ LATULA: w4y sm4rt. t1m1ng 1t just b3for3 th3 scr4tch, so th4t god t13rz d1dnt h4v3 4 ch4nc3 to r3v1v3 b3for3 th3 r3s3t, thus 1ron1c4lly l34v1ng th3m to b3 3r4s3d from 3x1st3nc3.
++ #not th4t th4t r34lly 3v3n n33d3d 3xpl41n1ng?
+ LATULA: th4t JUST occurr3d to m3 r3c3ntly. wuz op3n1ng th3 m34l v4ult to m4k3 4 fr34k1n ghost sn4ck wh3n 1 wuz l1k3. SH1T!!!! 
+ LATULA: P444444YCH3CK!!! 1 s41d, 4ll sh4k1ng my f1st.
+ LATULA: h4h4h4, dont l34v3 m3 h4ng1n grl. >8D
++ #H1 F1V3
+ MEENAH: k one more pyrope but thats it
+ MEENAH: i dig a good highfive as much as the next badgirl but my cod
++ #hi5 fatigue
+ MEENAH: got this fresh pimp ghost bod looking fine as fuck i dont need to callous up my palms already
+ MEENAH: havent you heard an empress needs hands so soft you can use em to polish gold with???
+ MEENAH: question
+@@ -2225,11 +2406,13 @@ LATULA: shoot b4b3z.
+ MEENAH: seeing as what a hot shit gamer gurl you have a reputation for and all
+ MEENAH: i figured you would be a lock to join my party
+ MEENAH: to go fuck up clamilord or whoever
++ #lord of clams
+ LATULA: w41t. who???
+ MEENAH: skull guy
+ MEENAH: kills ghosts
+ LATULA: 3rrr nop3. h3lp m3 out p4ymon3y.
+ MEENAH: dont you keep up with current events
++ #current like water current yessss
+ LATULA: tchhh, your3 r3m1nd1ng m3 why 1 thought you w3r3 cr4zy mp. just fr34k1n sp1ll 1t.
+ MEENAH: the shit in the sky
+ MEENAH: it cracked 
+@@ -2241,6 +2424,7 @@ MEENAH: but??
+ LATULA: h4t3 to b3 4 buzzk1ll but... 1ts b33n wh4t.
+ LATULA: 4pprox1m4t3ly H3LLA y34rz s1nc3 1 d1d 4ny f1ght1ng????
+ LATULA: k1nd of rusty. sh1t dont l3t kk know 1 s41d rusty, 4h4h4.
++ #tw #h3mophob1c slurs
+ MEENAH: so
+ LATULA: so 1m s4y1ng 1 h4d SCADZ of t1m3 to p3rf3ct th1s K1LL3R HAND PLANT!!! >8D
+ LATULA: w4nn4 s3333?
+@@ -2248,12 +2432,15 @@ MEENAH: no pretty sure dont give much a shit about a trick you do on your four w
+ MEENAH: tho i will say
+ MEENAH: "scads" is actually a fish pun you made probly on accident
+ MEENAH: which kind of makes me want to give you a hug so it balances out your dumb shit answer
++ #fish puns are #my one weakness :(
+ LATULA: 1m sorry mp. 1 r34lly 4m!!! f33l l1k3 such 4 w3t snuggl3pl4n3 b41l1ng on you l1k3 th1s.
++ #tho m4yb3 you l1k3 w3t snuggl3pl4n3s? #s1nc3 you c4n l1v3 und3r w4t3r?
+ LATULA: 1 should prob4bly run 1t by mt. s33 wh4t h3 th1nks.
+ MEENAH: oh shit you and captor
+ MEENAH: thats still a thing after all this pseudotime or
+ LATULA: h4h4 y3444h.
+ MEENAH: still red??????
++ #38o
+ LATULA: uh huh. >8]
+ MEENAH: mother glubber
+ MEENAH: seriously didnt think T)(ATD last
+@@ -2266,38 +2453,50 @@ MEENAH: you die and nothing means anyfin and then you date forever
+ MEENAH: sort of makes me want to puke
+ LATULA: >;D
+ MEENAH: couldnt see that wink behind your radspex fyi
++ #anemone waaay...
+ MEENAH: if you change your mind
+ MEENAH: just lemminnow
+ LATULA: grl, who DO3SNT w4nt to b3 m3???
+ LATULA: you th1nk you c4n just w4ltz 1nto th1s bubbl3 4nd st4rt b31ng 4ny r4d g4m3r grl you cross p4thz w1th????
+ LATULA: chy34h, R1GHT! you h4v3 4 long, LONG w4y to go b3for3 you 34rn 3nough r4d-cr3dz to b3 M3. or 4s 1 l1k3 to c4ll th3m, CRADZ.
++ #cr4dz #tm
+ MEENAH: latula shut up and just tell me what horseshit thing you want me to do
+ LATULA: 1ts gonn4 cost y4!
+ LATULA: you h4v3 to 'l1k3' 4ll my r4dd3st m3mor13z, 4nd th3n r3bubbl3 4t l34st 413 of th3m.
++ #th3 numb3r 413 #not 'AIE'
+ MEENAH: you can NOT be serious
+ LATULA: H4H4H4H4H4H4!
++ #psych3
+ MEENAH: kay tules im outtie
+ LATULA: w41t! dont b3 l1k3 th4t, w3 c4n st1ll cut 4 d34l, l3mm3 th1nk.
++ #hmzzz...
+ LATULA: 4lr1ght, k1d. t3ll you wh4t. s1nc3 1 d1g your styl3, 1ll g1v3 you 4 shot.
+ LATULA: you m4y th1nk you rul3, wh3r34z most oth3rs drool, but wh4t 1 w4nt to know 1s, how b4d c4n you THR4SH stuff?
+ LATULA: just n33d to scop3 your k1ckfl1p chopz, m4k3 sur3 3v3ryth1ng ch3cks out. s33 1f your t3chn1qu3s 4r3 wh3r3 th3y n33dz to b3 4t.
+ MEENAH: kickflip chops
++ #sdlkjlkjfs
+ LATULA: y34h grl. show m3 y3r stuntz. m4yb3 som3th1ng 1n 4 h4ndpl4nt. ooh, know wh4t sh1t would b3 W1CK3D M4L1C1OUS?
+ LATULA: gr1nd1ng down 4 R41L1NG!!!!
++ #Y3AH!!! #hold pol3s
+ LATULA: th4t ought to b3 fl4gr4nt 3nough to prov3 your r4dn3ss 4 SHOR3.
++ #'4' 1s 4 homonym 4g41n yo
+ LATULA: so wh4t4y4 s4y, p4ych3ck? you r34dy to st4rt r1pp1ng up so m4ny h3ll4c3ous shr3ds th4t th1s f13rc3sh1tty b1zn4sty w1ll st4rt g3tt1ng so d3l1r1ously rud3br4z3n 1t... 
+ MEENAH: just gimme the board pyrope
+ PORRIM: Welco+me back.
+ MEENAH: sup maryam
+ PORRIM: So+, yo+ur death certificate has barely dried, and yo+u're already busy raising an army, I hear?
+ MEENAH: howd you even hear that already
++ #dag
+ PORRIM: Wo+rd travels fast here. Plenty o+f go+ssip.
+ PORRIM: No+ o+ne quite prepares yo+u fo+r the fact that o+n the o+ther side o+f death is an infinite echo+ chamber o+f teen drama.
++ #Bubblr
+ PORRIM: Funny ho+w when we left o+ur wo+rld to+ play yo+ur game, we all tho+ught we were leaving o+ur juvenile scho+o+lfeeding days behind us. 
+ MEENAH: yeah
+ MEENAH: all the more reason to get out of here and fight bad guys and stuff
+ PORRIM: I no+ticed ho+w yo+u cunningly sidestepped an enco+unter with Kankri do+wn there.
++ #Nicely do+ne.
+ MEENAH: yeaaah
++ #poor shouty 38(
+ MEENAH: nomoby deserves havin to meet a dead teen alt universe ancestor like that
+ PORRIM: I think he might be entertaining so+me delusio+n o+f taking him under his wing.
+ PORRIM: Or if no+t his wing, the red fuzzy arm o+f his sweater.
+@@ -2312,14 +2511,17 @@ MEENAH: if theres some new dig on vantas i need to know about it pronto
+ PORRIM: The Insufferable.
+ MEENAH: fuck yes highfive
+ MEENAH: wait forget it my hands still sore from latula
++ #goddamn radgirl
+ MEENAH: bitch slaps )(ARD
+ PORRIM: Oh, I kno+w.
+ MEENAH: you do
+ MEENAH: wait that is soundin fishily like innuendo
+ MEENAH: you and her ever uh
++ #uh...
+ PORRIM: I was under the impressio+n yo+u didn't co+me here to+ start trading go+ssip.
+ MEENAH: whoa youre right
+ MEENAH: almost forgot to not be glubbin a fuck
++ #glub exactly zero fucks
+ MEENAH: i apologize for prying into your romlife that was so shrimpudent of me
+ PORRIM: It's alright. It's no+t like I have many well kept secrets. 
+ PORRIM: Co+me visit any time. We'll get yo+u all caught up o+n exactly who+'s been seen passing thro+ugh the well-greased revo+lving do+o+rs to+ my quadrants.
+@@ -2330,19 +2532,26 @@ PORRIM: What's the size o+f yo+ur party so+ far?
+ MEENAH: uh
+ PORRIM: It's still just yo+u, isn't it?
+ MEENAH: ... maybe
++ #losers #everywhere
+ PORRIM: If I were yo+u, I'd ask all the go+d tiers first. They'd give yo+u the mo+st tactical advantage, wo+uldn't they?
++ #Go+d tiers
+ PORRIM: Then yo+u can build yo+ur co+alitio+n aro+und them.
++ #Pajama party
+ MEENAH: i guess
+ PORRIM: +, they're immo+rtal, right? Or... gho+st immo+rtal, perhaps?
+ PORRIM: Dear Go+d, it's finally co+me to+ this. We have to+ talk abo+ut "gho+st immo+rtality" no+w, in a serio+us way?
++ #Gho+st immo+rtality #Serio+us business
+ MEENAH: lol yeah
+ PORRIM: Anyway, that's what I'd do+.
+ MEENAH: but i think the thing is the skull lord might actually be able to kill god tiers?
++ #at least... #ghost god tiers
+ PORRIM: Can he?
+ MEENAH: like bypass the whole judgment hullabeluga that makes em resurrect
++ #whaaaaales #&lt;3
+ MEENAH: you know with the fancy clock and all
+ MEENAH: i dunno
+ PORRIM: Yo+u'll have to+ ask Aranea. I'm sure she co+uld talk yo+ur fin o+ff o+n the subject.
++ #Sylph o+f Wo+rds
+ MEENAH: oof
+ MEENAH: yeah maybe later
+ PORRIM: Do+ yo+u even kno+w who+ all the go+d tiers are?
+@@ -2350,48 +2559,64 @@ MEENAH: um
+ PORRIM: There's Aranea. Did yo+u ask her?
+ MEENAH: yeah but she has her own plan
+ MEENAH: girl is going on a cherub jam or some bitch ass noise
++ #eff that
+ PORRIM: Ok. Well, I ho+pe this isn't to+o+ invasive, but what abo+ut yo+u?
+ MEENAH: ...
+ PORRIM: I've heard rumo+rs that yo+u reached go+d tier, but never let o+n to+ anyo+ne.
++ #Except presumably Damara...
+ MEENAH: you dont understand
+ MEENAH: its just that fucking thief of life getup
++ #looked like such ass
+ MEENAH: i couldnt just parade around in that hideous thing
++ #got a reputation to conchsider
+ PORRIM: So+ it is true, then. Tho+ught so+.
+ PORRIM: See what I mean, tho+ugh? I wasn't sure abo+ut that until just no+w. Rumo+rs are always flying, but secrets so+meho+w persist.
+ PORRIM: Who+ kno+ws who+ else reached go+d tier? A lo+t can happen in three sweeps. I o+nly kno+w I didn't make it.
+ PORRIM: But if yo+u need so+meo+ne to+ eerily pho+spho+resce in the demo+n's vicinity, while debating whether to+ try drinking his blo+o+d, then I'd like to+ think I easily crack the to+p 10+ candidates yo+u might co+nsider fo+r the jo+b.
+ MEENAH: yeah i know youd rock the glowin duties
++ #po glow
+ MEENAH: guess youre right i should sea what other god tiers want to join
+ MEENAH: the prob is that i dont think becoming god tier stops you from being lame and terrible
++ #lame #terrible
+ MEENAH: and we got a lot of people like that on our team
++ #soooo
+ PORRIM: This is true.
+ MEENAH: guess ill keep axin around
+ MEENAH: gonna bounce seaya meryam
+ LATULA: yo porz, you s33 p4yd1rt 1s b4ck??? 
++ #GRLZ 1N D4 H1V3
+ PORRIM: I saw.
+ LATULA: pr3tty r4d huh?? th3 4-lyf3 just scor3d 4 l1ttl3 mor3 GRL POW3R!!!!
++ #l3ss drool #mor3 rul3
+ LATULA: h3y g1mm3 f1v3!
+ PORRIM: That's... OW.
+ PORRIM: No+t so+ hard!
+ PORRIM: That's go+o+d.
+ LATULA: wh444t, com3 on. 1 thought you of 4ll p3opl3 would b3 psych3d to g3t 4 l1l mor3 r3pr3z3nt4t1on from th3 l4d13s UP 1NZ.
+ PORRIM: Why would that be? It's nice to see an old friend, but that's about it.
++ #Up inz #Meaningless #On all levels
+ PORRIM: I think you are possibly still caricaturizing my point of view on the subject, assuming we're even talking about the same subject.
+ PORRIM: Much the way yo+ur co+ntinued co+mmitment to+ this o+verzealo+us "rad girl" thing still strikes me as a caricature o+f the kind o+f female strength and empo+werment yo+u're trying to+ pro+ject.
+ LATULA: s4y wh4t??? th4tz bogus, 1m th1s r4d b3c4us3 1 l1k3 b31ng r4d! r4dn3ss rul3z.
+ PORRIM: I kno+w it rulez. But there's such a thing as o+verdo+ing it.
++ #Did I pho+netically emphasize that 'z' eno+ugh?
+ PORRIM: Do+n't yo+u think it can co+me acro+ss as a series o+f affectatio+ns designed to+ o+verco+mpensate fo+r an implicit flaw with yo+ur gender? An act which rebuts what sho+uld be a straw man, with a carto+o+nish masquerade that with every kickflip and high five screams "YES, IT APPEARS THAT GIRLS CAN BE AS RADICAL AND AS GOOD AT GAMES AS BOYS!" thus lending a certain dignity to+ the premise at the expense o+f yo+ur o+wn?
+ LATULA: wh4... w41t wh4t? 4w m4n.
++ #r4dt1m3z off1c14lly: #H4RSH3D
+ LATULA: wh4t you t4lk1ng 4bout grl. m33n4h wh3r3d you go! com3 h3lp m3 b3 cyn1c4l 4bout th1s! 4h!!!
++ #h4lp
+ PORRIM: Yo+u can pretend to+ misunderstand all yo+u want, but we've talked abo+ut this befo+re and I kno+w yo+u're smarter abo+ut this than yo+u let o+n. We were raised in what was a fo+rmally "matriarchal so+ciety", which has always been used as a shield to+ do+wnplay clear instances o+f female o+ppressio+n and o+bfuscate the relevance o+f gender ro+les, particularly where they're weighted against females. But anyo+ne who+'s lo+o+ked at o+ur so+ciety mo+re ho+nestly can see that while, yes, it is superficially o+bserved as a matriarchy o+n a fuschia-do+wn basis, o+n a practical level all o+f the enfo+rcement and po+litical po+wer go+verning mo+st classes was delegated to+ the higher CIPs, which were generally male-do+minated castes. They go+t to+ co+ntro+l the agenda and dictate the so+cial co+nventio+ns, and anyo+ne who+ dared to+ o+bject o+r bring light to+ this co+uld always be co+untered with "Hey! Matriarchy! End o+f discussio+n."
++ #Fuschia do+wn matriarchy #Purple do+wn patriarchy
+ LATULA: grl, pl34s3. dont t3ll m3 your3 go1ng full v4nt4s on m3 h3r3. 
+ PORRIM: No+, if I were getting my Vantas o+n, we'd o+nly be getting warmed up. But that's really all I have to+ say o+n the matter.
+ LATULA: wh3w!
+ PORRIM: I just think yo+u sho+uld be yo+urself mo+re o+ften. We already kno+w yo+u are stro+ng and go+o+d at games and all that. Yo+u have no+thing to+ pro+ve.
+ LATULA: y34h. your3 prob4bly r1ght.
+ LATULA: 1ts k1nd of str3ssful som3t1m3s, k33p1ng 1t up! som3t1m3s 1 forg3t to put z33s on th3 3nd of words, 4nd 1 r34lly str3ss out 4bout 1t.
++ #sp3c14lly wh3n 1m off my m3ds
+ LATULA: you know, 1 4lw4ys d1d f33l b3tt3r t4lk1ng to you. l1k3 1 could t4k3 th3 3dg3 off my r4d th1ng, 4nd r3l4x 4 l1ttl3 mor3.
+ PORRIM: Then let's make it mo+re o+f a habit, shall we?
++ #:)
+ LATULA: h3ckz y3s!!!
+ LATULA: h3y, th4nks for th3 p3pt4lk, popo m3rryg4mz.
+ PORRIM: That nickname.
+@@ -2403,19 +2628,28 @@ PORRIM: ...
+ PORRIM: Merrygamz will be fine.
+ LATULA: bro!!!! 1 h34r youv3 b33n h4ssl1ng th3 n3w k1dz. wh4t 1s UP w1th th4t???
+ KANKRI: Hassling? Far fr9m it. I've merely disc9vered a new and far less ungrateful fl9ck which has n9t yet 6ec9me w9efully jaded t9 my messages 9f p9sitive s9cial change.
++ #New f9ll9wers
+ LATULA: you c4nt fool m3 k4nkz. you 4r3 bor1ng th4t poor dud3 to d34th. you just w4nt to m4k3 4 ghost out of h1m so you c4n k33p h1m h3r3 for3v3r.
+ KARKAT: 
+ LATULA: wh1ch 41nt r1ght! you h4v3 to l3t th4t bro d13 of h1s own M4D VOL1T1ONZ. 
++ #r3: #m1st4k3s #l1k3 us
+ KANKRI: Can y9u sc99t away 9n y9ur little wheeled t9y f9r immature wigglers? I was in the middle 9f a serm9n.
++ #I mean, c9nversati9n.
+ LATULA: why dont you s4v3 h1m som3 gr13f 4nd g1v3 h1m on3 of your old m3moz?
+ LATULA: 4h4h4h, r3m3mb3r thoz3??? how m4ny sw33ps d1d you sp3nd try1ng to forc3 us to r34d th4t tr4sh?
++ #fru1ty r1ght3ous blowh4rd f4ctory
+ KANKRI: I d9n't remem6er. And n9, I w9n't 6e sharing my 9ld mem9s with him. They were written very p99rly, and my meth9ds 9f argumentati9n were flawed and extremely childish. I've deleted m9st 9f th9se mem9ries fr9m these 6u66les, s9 d9n't 69ther r99ting ar9und f9r them. Frankly, they stunk.
+ LATULA: h3y!
++ #>8[
+ KANKRI: 9h, man, I'm s9rry. I c9mpletely f9rg9t that "stunk" was an a6leist slur. Please f9rgive my insensitivity t9ward y9ur disa6ility.
++ #tw #tw #tw #s9rry #tw #a6leism
+ LATULA: 1tz ch1ll, 1 w4s only 4ct1ng off3nd3d to bug you.
+ KANKRI: N9, really, it was inexcusa6le 9f me. I sh9uld have at least preceded my call9us remark with a trigger warning.
++ #Trigger warning: #Em6arrassed retracti9ns ahead
+ KANKRI: I have n9 6usiness making light 9f y9ur impairment, thus failing t9 check my nasal privilege, and p9tentially 6ringing 6ack painful and devastatingly triggering mem9ries 9f the 9ld cycle 9f revenge 6etween y9u and s9me friends which resulted in the l9ss 9f y9ur 9lfact9ry sense. I have t9 admit, I was skeptical at first a69ut whether that really qualified as a true disa6ility warranting sensitivity and the pr9m9ti9n 9f awareness, 6ut 6eing cl9se t9 y9u as a friend and carefully examining my privilege has really 9pened my eyes. 99ps, that euphemism is slightly a6leist t9 the 6lind, what I meant was "6r9adened my h9riz9ns 9n the nature 9f disa6ility." S9rry.
++ #Nasal privilege #H9riz9ns #6r9adness #H9riz9ntal width l9ngenning
+ LATULA: y34h! th4ts funny, c4us3 1t n3v3r would h4v3 occurr3d to m3 to t4k3 1t 4ll th4t s3r1ously 4s 4 h4nd1c4p w1thout you m4k1ng 4 f3d3r4l c4s3 out of 1t for so long on my b3h4lf. so, th4nkz k4nk!!!
++ #MAD d1s4dv4nt4g3d brot1m3z
+ KANKRI: My pleasure. Really, it is truly amazing that y9u have managed t9 triumph 9ver such adversity t9 6ec9me a great r9le m9del f9r 9thers, excellent at vide9 games, and a t9tally stellar skate69arding pers9n, all while 6eing a girl, n9 less.
+ KARKAT: 
+ KANKRI: 6e me? I...
+@@ -2430,18 +2664,23 @@ PORRIM: Latula, it's just me. I do+n't think anyo+ne is lo+o+king. No+ need to+
+ LATULA: y34h, gu3ss your3 r1ght. 1'll ch1ll 1t down 4 b1t.
+ LATULA: wh4ts on your th1nk p4n, po-m4ry.
+ PORRIM: Meeting o+ur ancesto+rs as kids, o+r, I mean o+ur descendants as kids, ho+wever yo+u want to+ spin it...
++ #Descesto+rs? #Ancendants? #Dancesto+rs... #Hmm #Bingo+
+ PORRIM: It has me thinking abo+ut o+ur rebo+o+ted lives o+n Alternia, and what we grew up to+ be. 
+ PORRIM: Makes me wo+nder abo+ut fate. If it's so+mething that's even co+mprehensible.
+ LATULA: y34h?
+ PORRIM: Fo+r instance, o+n Alternia, my relatio+nship with Kankri seemed to+ make so+me sense. I co+uld definitely see o+ur lives beco+ming entangled in that way, karmically speaking.
+ PORRIM: But then there were o+ther develo+pments that are still mysterio+us to+ me.
+ PORRIM: Like, as far as I kno+w, yo+u and Aranea always go+t alo+ng. Didn't yo+u?
++ #Radglare #Kindfang
+ LATULA: 3h 1 gu3ss. n3v3r sp3nt much t1m3 th1nk1ng 4bout s3rk3t, tbh.
+ LATULA: 4lw4ys thought sh3 w4s 4 s3lf 4bsorb3d snooz3, 1f you r34lly w4nt to know.
++ #zzzz #not 3v3n th3 r4d k1nd of z33s
+ PORRIM: Exactly. No+thing much to+ yo+ur relatio+nship to+ speak o+f at all. But in yo+ur po+st-scratch lives yo+u had such majo+r issues to+gether, even yo+ur descendants inherited it, and co+ntinued the co+ntentio+us cycle until there was blo+o+dshed.
++ #Redglare #Mindfang
+ LATULA: r34lly?
+ LATULA: huh. 
+ PORRIM: Did yo+u no+t kno+w that?
++ #Mindfang gave yo+u five #Then left yo+u hanging
+ LATULA: n3v3r r34lly thought 4bout 1t. but now th4t you m3nt1on 1t, th4t outcom3 m4k3s 4ll sorts of s3ns3 to m3.
+ PORRIM: It do+es? Ho+w?
+ LATULA: just do3s, b4b3z.
+@@ -2449,18 +2688,25 @@ PORRIM: I do+n't really understand karma.
+ LATULA: th4ts c4us3 your3 not 4 m1nd pl4y3r.
+ PORRIM: Oh. Co+uld yo+u explain to+ me ho+w it wo+rks, then?
+ LATULA: pshh, 4s 1f. th4t wouldnt b3 4 v3ry r4d th1ng to do.
++ #do 1 look l1k3 s3rk3t to you???
+ LATULA: h3y, ch3ck out th1s OUTST4ND1NG h34lfl1p!!!!
+ PORRIM: I do+n't
+ PORRIM: ...
++ #Sigh
+ PORRIM: Ok. Let's see it.
+ PORRIM: Kanny, leave this po+o+r kid alo+ne.
+ KANKRI: I'd appreciate it if y9u w9uldn't call me that. We've talked a69ut this. That's what y9u call a wiggler. D9 I l99k like a wiggler t9 y9u, P9rrim? N9, I d9n't. It's 6een three sweeps, plus eternity, f9r, excuse me, "fuck's" sake. I think we can safely retire that particular term 9f "endearment". Call me anything 6ut that, even my 9ther nickname. I'm actually 9k with that 9ne.
++ #micr9aggressi9ns #n9 wait #MACR9agressi9ns m9re like
+ PORRIM: I'm no+t calling yo+u Insufferable, Kanny. Well, no+t unless I'm using it as an actual adjective. 
++ #And even then, pro+bably no+t to+ yo+ur face.
+ PORRIM: Well... 
++ #No+t o+ften I mean.
+ KANKRI: It w9uld 6e nice if y9u'd at least use my pr9per name in fr9nt 9f my studi9us y9ung Alternian descendant. It really kind 9f er9des my credi6ility, and I d9n't need that in the pr9ximity 9f a fresh faced y9ungster wh9 clearly thirsts f9r kn9wledge. Why w9uld y9u want t9 sa69tage a fine y9ung man's educati9n like that?
++ #Fresh #Faced #Y9ungster #Kn9wledge thirst
+ PORRIM: Ro+lling my eyes here.
+ PORRIM: Can yo+u see? Do+ yo+u want me to+ light them up fo+r yo+u?
+ KANKRI: N9, 6ut thanks f9r 9ffering. C9uld y9u g9 r9ll them 9ver there? Thank y9u. N9w where was I.
++ #H9w d9 y9u even r9ll eyes with9ut pupils?
+ PORRIM: I do+n't think he cares.
+ PORRIM: Hey, there. Karkat? If yo+u do+n't mind my asking... are yo+u even remo+tely interested in the lo+af supplement this guy's serving?
+ KARKAT: 
+@@ -2469,82 +2715,116 @@ PORRIM: Yo+u kno+w, yo+u are actually very cute.
+ PORRIM: That girl who+'s been wandering aro+und in the drago+n suit is a very lucky lady. 
+ KANKRI: 9k, w9nderful. That c9nversati9n just came t9 an end. 
+ KANKRI: P9rrim, please d9n't hit 9n my re699ted kid ancest9r-descendant. It's really weird. N9t t9 menti9n, he l99ks exactly like me? I mean, kind 9f 96vi9usly? S9 when y9u're hitting 9n him, it's like y9u're hitting 9n me at the exact same time, which like I said. It's weird.
++ #It's weird
+ KANKRI: N9t t9 get int9 all this again, 6ut the th9ught 9f dating y9u... it's just a strange and vaguely 9ffputting idea. N9 9ffense. It alm9st makes me understand at a visceral level the 6izarre human anathema 9f incest, which is s9mething I can't really explain. I'm just saying.
++ #Trigger warning #Incest #Anathemas #Viscerality #Vaguely #9ffputting
+ PORRIM: (Very deep sigh.)
++ #Oh my Go+d.
+ KANKRI: I'm S9RRY, 9k? I'm s9rry that I am, perhaps literally, the 9nly 9ne n9t t9 ever fall prey t9 y9ur tireless 9mnidirecti9nal s9licitati9ns, 9r t9 get swept up in 9ne 9f y9ur innumera6le flushed 9r caligin9us flings. I happened t9 always prefer y9u as a friend, and in any case, I always preferred t9 lead a relatively chaste existence, as it keeps me f9cused 9n fighting 9n 6ehalf 9f truly imp9rtant pr96lems. Alth9ugh staying "relatively" chaste t9 y9u I supp9se is n9t saying much.
+ PORRIM: ...
++ #Hey.
+ KANKRI: 9nce again, I ap9l9gize. I've 6lundered int9 the pr96lematic territ9ry 9f vacillati9n shaming, thus 9pening the fl99dgates t9 the myriad ways 9ne may 6e disadvantaged up9n 6y its staggering shame radius. I f9rg9t t9 check my piety privilege, and here we are. I was g9ing t9 c9ver this t9pic in a much later chapter 9f my lecture, 6ut we've g9tten 6adly derailed here.
++ #TW #Derailment #Train wrecks #Ch99 ch99 catastr9phes
+ KANKRI: Karkat, I'm s9rry f9r this interrupti9n. I pr9mise I'll get 6ack t9 my critical lecture as s99n as this pr9miscu9us 6usy69dy leaves us in peace.
++ #Village tw9 wheel device
+ KARKAT: 
+ PORRIM: Yes, critical lecture. I'm sure.
+ PORRIM: And am I right in being just as sure yo+u are assiduo+usly deco+nstructing every co+nceivable, hypo+thetical fo+rm o+f injustice no+ matter ho+w o+bscure, except tho+se that I happen to+ think are kind o+f impo+rtant?
++ #Yes
+ KANKRI: N9. Just, n9, P9rrim. We're n9t d9ing this.
++ #N9
+ KANKRI: I am n9t g9ing t9 p9llute Karkat's utterly imperative crash c9urse, in which he is intr9duced t9 the A6S9LUTE 6ASICS, 6y indulging in y9ur pet issues.
+ PORRIM: Yes, ho+w dreadful it wo+uld be fo+r yo+ur sixty nine millio+n wo+rd essay to+ get bo+gged do+wn by even the faintest reference to+ the ro+les o+f gender in Befo+ran and Alternian civilizatio+n.
++ #"HUMAN SARCASM"
+ KANKRI: L99k, it's n9t that I'm insensitive t9 y9ur c9ncerns 9n that t9pic. I'm interested t9 discuss them with y9u 9n an academic, primarily the9retical level.
+ PORRIM: Theo+retical?
++ #...
+ KANKRI: I just think there is inherent danger in muddying the waters 9f disc9urse 6y intr9ducing s9cial issues which are suspect at 6est, thus c9nsuming crucial res9urces fr9m the limited cache 9f rhet9ric which pr9pels these narratives. And furtherm9re, 9ne c9uld argue it's m9re than a little pr96lematic, 9ffensive even, f9r y9u t9 6e appr9priating the lexic9n 9f sensitivity used t9 advance awareness 9f maj9r issues, thus reducing it t9 the level 6uzzspeak and pseud9science. It makes it m9re difficult f9r th9se 9f us wh9 are genuinely f9cused 9n p9sitive change t9 6e taken seri9usly, that's all.
+ PORRIM: Appro+priating??
++ #That's no+t #what that even #means?
+ PORRIM: PSEUDOSCIENCE???
++ #Yo+u did no+t just...
+ KANKRI: I'm s9rry, I just d9n't think there's much there. We aren't like humans, wh9se species 6izarrely en9ugh includes highly specialized r9les f9r 69th sexes in the pr9cess 9f repr9ducti9n, and s9 this naturally had s9cial ramificati9ns f9r the way their civilizati9n ev9lved. 6ut that's n9t h9w it w9rks f9r us, s9 I fail t9 see h9w gender fact9rs int9 the discussi9n in a way that can 6e effectively and rati9nally pr96lematized. Where is the r99m f9r unexamined privilege in the dich9t9my? I d9n't see it. And appr9priating the talking p9ints and awareness-raising tactics f9r du6i9us issues like this is, frankly, fr9wned up9n, t9 put it p9litely. Such appr9priative gestures 9nly serve t9 marginalize and invalidate th9se su6ject t9 seri9us, real life struggles and 9ppressi9n, and I guess I'm a little disapp9inted t9 see y9u 6eing s9 6lithely and inappr9priately appr9priat9ry.
++ #Fr9wned up9n #Fr9wns all ar9und #Welc9me t9 fr9wn t9wn
+ PORRIM: Kanny, I'm starting to+ feel just a little bit triggered by all this "appro+priatio+n" bullshit.
++ #Trigger warning: #Abo+ut to+ kick yo+ur tall pantsed ass
+ KANKRI: 9h! My sincere ap9l9gies. I sh9uld have d9ne a 6etter j96 tagging my statements, 6ut f9r future reference, it's helpful t9 alert y9ur c9nversati9nal partners t9 y9ur triggers well in advance. Sh9uld I g9 fetch y9ur m9irail t9 help settle y9u d9wn? And if s9, wh9 exactly w9uld 6e filling that quadrant t9day?
++ #It's the may9r, right? #G9tta 6e the may9r
+ PORRIM: Alright. Obvio+usly yo+u're in o+ne o+f yo+ur bratty mo+o+ds. I'm go+ne.
+ KANKRI: D9n't 6e like that. Really, we can talk a69ut whatever y9u like later, and I'll 6e really sympathetic, I pr9mise. Just n9t ar9und my pupil while he is still learning. 
+ KANKRI: 9r... my descendant. What did I say? Haha. Karkat, I mean. Anyway, Karkat, again I ap9l9gize f9r that. 
++ #N9w where was I?
+ KARKAT: 
+ KANKRI: What? Y9u want t9 6e me? What s9rt 9f n9nsense request is that?
+ KANKRI: Can't y9u see I'm in the middle 9f a direly imp9rtant w9rd dump? I mean man-t9-man c9nversati9n with Karkat?
+ KANKRI: I might c9nsider it if y9u asked m9re nicely. 9r at the very least, m9re "radically".
+ KANKRI: 9h, hey, Latula. I th9ught I heard y9ur device grinding 9n vari9us surfaces near6y. 
+ KANKRI: H9w are y9ur athletic t9y stunts g9ing? Are y9u getting a l9t 9f... a l9t 9f "air"? Am I saying that right?
++ #Did y9u hang... #Hang 10? #N9 that can't 6e right...
+ LATULA: you knowz 1t bro!!! 
+ LATULA: you c4nt 3v3n TOUCH th1s. 1m 3sc4p1ng to th3 s1d3, from 4bov3, from 3v3ry wh1ch w4y b4s1c4lly!!!!
+ KANKRI: Well, I wasn't g9ing t9 attempt t9 make any s9rt 9f physical c9ntact with y9u, and even if I did, I have n9 d9u6t that y9u w9uld 6e a6le t9 maneuver away fr9m my grasp 9n y9ur speedy little platf9rm. Either way, I'm m9re than c9ntent t9 let y9u escape in any directi9n 9f y9ur ch99sing, if that's y9ur wish.
+ LATULA: dud3. just wh3n 1 th1nk youv3 4lr34dy s41d th3 squ4r3st th1ng poss1bl3, you go 4nd s4y som3th1ng l1k3 th4t.
+ KANKRI: Haha. I guess. Y9u kn9w, it's really nice we can talk like this.
+ LATULA: 1t 1s...
++ #?
+ KANKRI: Yes. I was just thinking lately, a69ut 9ur new p9st-scratch friends. Particularly the y9ung Vantas and Pyr9pe iterati9ns 9n their team, and h9w they're pretty similar t9 us, 6ut als9 really different.
+ LATULA: y34h. l1l m3 1s bl1nd! d1d u 3v3n KNOW th4t??
++ #h4v3 u s33n h3r l1l dr4gon su1t?? 3333! #SO cut3 >8]
+ KANKRI: Yes, 6ut that's n9t really what I'm talking a69ut.
+ KANKRI: She and Karkat have a different relati9nship fr9m the 9ne we have. Theirs is much m9re tur6ulent, which is fueled presuma6ly 6y r9mantic tensi9n. I'm picking up 9n s9me maj9r vascillati9n vi6es fr9m their situati9n. It's kind 9f unf9rtunate, 6ut it makes me grateful that we never g9t t9 that p9int.
+ LATULA: h3llz y34h. who n33ds th4t?
+ KANKRI: I'm sure it's m9stly due t9 the fact that we've stayed entirely away fr9m the sting6ug's nest 9f r9mantic entanglement. Which 9f c9urse is related t9 my 9ath 9f celi6acy, which as y9u kn9w is just a pers9nal ch9ice, 9ne which f9r s9me reas9n my p9st-scratch adult self eventually strayed fr9m... with... Meulin, 9f all pe9ple? 6ut that's neither here n9r there.
++ #Seri9usly. #I mean, she's nice, 6ut... #Really?
+ LATULA: h4h4h4h4... you 4nd m3uz. st1ll cr4cks m3 up... H4H4H4H4H4H4!!!!
++ #:3 #h3h3h3h
+ KANKRI: Yes. 6ut regardless. What I'm saying is, it's great we stayed away fr9m that. It's helped me appreciate y9u as a friend, and admire all y9ur g99d qualities. Plat9nically, 9f c9urse.
+ LATULA: your3 r1ght! 1ts b33n pr3tty r4d wh3n you put 1t th4t w4y.
+ KANKRI: Like h9w y9u never 69ught int9 the usual r9les 9f y9ur caste, as an aqua, n9t even the m9re "well intended" s9cial c9nventi9ns 9f y9ur privileged arist9cratic 6l99dline. Y9u never l99ked d9wn 9n any69dy, 9r saw it as y9ur civil duty t9 care f9r 9r "impr9ve" the warmer classes, falling prey t9 unf9rtunate tendencies inv9lving cerulean savi9r c9mplex, 9r the "6lue 6l99d's 6urden" (trigger warning 9n that, 96vi9usly) which sadly 6ecame s9 insepera6le fr9m the fa6ric 9f the spectral 9rder, with each class c9nditi9ned t9 view th9se 6el9w it the same way, the 96stacles t9 raising awareness were alm9st insurm9unta6le. 6ut unlike the c99ler hues 9n 9ur team m9re priviliged than y9u, like y9ur Serkets, y9ur Zahhaks, y9ur Amp9ras... I never g9t the sense that y9u put the slightest 6it 9f st9ck in any 9f that, and I think that's pretty amazing.
++ #Cerulean savi9rs #Teal templars #Vi9let valiants #Purple paladins
+ LATULA: uh... y34h! th4t sh1tz 4 dr4g, why would 1 both3r w1th 4ny of th4t? 1 m34n, 1ll h3lp low bloods l34rn stunts 4nd ch34t cod3z 1f th3y w4nt, but th4ts 1t!!!
+ KANKRI: Right. And I'm just saying if my head was ever cl9uded 6y r9mantic feelings f9r y9u, I pr96a6ly w9uldn't 6e a6le t9 appreciate that a69ut y9u.
+ KANKRI: Just like I w9uldn't 6e a6le t9 appreciate the fairly c99l "zees" y9u put at the end 9f many w9rds, 9r say things l9udly and with enthusiasm, even if it's n9t particularly warranted.
++ #It rarely is
+ LATULA: h3h3h. y34h!!!!
++ #woo!
+ KANKRI: 9r the way y9ur hair fl9ws in the wind when y9u sc99t 9ver s9me s9rt 9f 96stactle 9n y9ur device really fast.
+ KANKRI: 9r the way y9u make this funny little n9ise just as y9u c9nnect with 9ne 9f y9ur c9pi9us high fives, which can 9nly 6e heard 9ver the l9ud slap if y9u listen really cl9sely.
+ LATULA: um, y34h... 1 not1c3d... som3 stuff l1k3 th4t...
+ LATULA: 4bout you too 1 gu3ss?
+ LATULA: h3h.
++ #uh...
+ KANKRI: 9r the way y9u have always sh9wn kindness t9 pe9ple wh9 needed help, with9ut making them feel tragic 9r helpless f9r accepting it.
+ KANKRI: 9r the way y9u still manage t9 l99k stylish even with9ut y9ur c99l shades, 9r s9metimes when they're pr9pped up 9n y9ur head just in fr9nt 9f y9ur h9rns.
+ LATULA: wh...
++ #1... #hm
+ KANKRI: 9r, I d9n't kn9w if y9u remem6er, that time Meenah 6aked every69dy a cake. It was the first sweep anniversary 9f entering the game, 9ne 9f the rare m9ments 9f s9lidarity and g99d cheer am9ng 9ur entire team at 9nce. Every9ne was raving a69ut h9w g99d the fresh 6aked cake smelled, s9 y9u t99k a 6ig sniff, I guess f9rgetting f9r a m9ment y9u c9uldn't smell. Then y9u quickly caught y9urself, and played it c99l making sure n9 9ne n9ticed, which n9 9ne did. 6ut I n9ticed. And I just th9ught that was kind 9f endearing. 
+ LATULA: 
+ KANKRI: Anyway, I think all that w9uld have 6een c9mpletely l9st 9n me if we didn't have this str9ng plat9nic 69nd. I just th9ught I'd say that. Guess I'll get g9ing n9w. 
+ KANKRI: See y9u ar9und, Latula.
+ LATULA: 
+ KANKRI: In the future, I'll thank y9u n9t t9 em6arrass me in fr9nt 9f my new disciples. Friends. I mean friends.
++ #Wait, what did I say? #Definitely meant friends
+ KANKRI: I really d9n't need y9u p9licing my awareness-raising rhet9ric. Y9u are n9t my "human m9ther".
++ #Weird human familial structures
+ PORRIM: What do+es that even mean??
+ KANKRI: Y9u w9uld understand if y9u spent time actually researching 9ther cultures t9 gain a m9re c9mprehensive f9undati9nal perspective 9n 9ur systemic pr96lems instead 9f meddling in 9ther pe9ple's enlightening and en9rm9us c9nversati9ns.
++ #I mean... #en9rm9us in pr9gressive virtue
+ PORRIM: All these sweeps and yo+u still act like such a wiggler so+metimes. Hey... is that...
+ PORRIM: Is that grub sauce o+n yo+ur face?
+ KANKRI: What? N9.
+ PORRIM: Yes it is. Yo+u have a big smudge o+f sauce, right there. Yo+u're a mess, Kanny. Co+me here.
+ KANKRI: N9! N9, st9p. D9n't t9uch me, I g9t it!
++ #SEE??? #It's fine
+ PORRIM: Do+n't wipe it o+ff with yo+ur sleeve! Oh my Go+d. I JUST washed that fo+r yo+u.
++ #Gho+st laundry
+ KANKRI: I d9n't care. I didn't ask y9u t9 wash my sweater. I keep telling y9u, I have n9 interest in 6ef9ran p9ssessi9ns.
++ #9r Alternian #9r Earthly
+ PORRIM: We aren't o+n Befo+rus anymo+re. I wo+rked hard o+n that sweater, and I'm no+t go+ing to+ stand by while yo+u encrust it in grub sauce.
+ KANKRI: I was perfectly happy with9ut the sweater! T9 6e h9nest, I'm less than thrilled with h9w it 96scures my pant line.
++ #Y9u can't even see my nice 6elt
+ PORRIM: Sigh...
++ #Yo+u make me sigh so+ much #I'm almo+st left sighless
+ PORRIM: Why are yo+u always so+ co+ntrary with me? To+ be ho+nest, I think yo+ur need to+ "rebel" against whatever I suggest is what drives yo+ur dismissal o+f my views mo+re than anything abo+ut the views themselves.
+ KANKRI: I d9n't dismiss y9ur views. I respect them. I have T9LD y9u this. 
+ KANKRI: I think the r9le 9f gender in 6ef9ran s9ciety is pr96a6ly a really fascinating and advanced su6ject t9 expl9re. See, y9u and I can appreciate the su6ject, 9f c9urse. I just d9n't think any9ne is ready f9r that yet. There are s9 many 9ther hurdles t9 9verc9me first.
+@@ -2555,67 +2835,70 @@ PORRIM: Kankri. Our peo+ple are extinct, and yo+u're wo+rried abo+ut "distractin
+ PORRIM: EVERYONE IS DEAD!!!
+ KANKRI: P9rrim, I'm very disapp9inted t9 hear y9u say that.
+ KANKRI: That was an extremely c9rp9realn9rmative remark.
++ #C9rp9realn9rmativity #M9rtality privilege #S9ul shaming
+ PORRIM: ...
+ LATULA: th4t w4s...
+ LATULA: so...
+ LATULA: fr3ak1ng...
+ LATULA: R44444444444444D1C4L!!!
++ #>8O!!!!
+ LATULA: holy smok3z grl, 1 d1dnt th1nk you 3v3n h4d gr1ndz l1k3 th4t.
+ LATULA: so you s4y you w4nn4 b3 m3 huh? w3ll, you got 1t! h3llz grl, 1m not sur3 1f 1 shouldnt b3 th3 on3 4sk1ng to b3 YOU!!!
+ KANKRI: 9ne m9ment please, Karkat. I'm g9ing t9 wander ar9und 6riefly, in an aut9n9m9us fashi9n. I kn9w y9u're very excited t9 c9ntinue 9ur discussi9n, and I pr9mise I'll return very sh9rtly s9 that we may resume. Just remain standing here in this exact sp9t, while y9u take time t9 let the wisd9m 9f my w9rds take r99t in y9ur heart, and try n9t t9 wander 9ff with any69dy, 9k? 6e right 6ack.
++ #"6r6"
+ KARKAT: 
+- Where do you think YOU'RE going! This is Meenah's interactive quest through the afterlife. You can only leave this area if you're being her!
++Where do you think YOU'RE going! This is Meenah's interactive quest through the afterlife. You can only leave this area if you're being her!
+  #nice try
+- The door is locked. It appears to be guarding someone's private memories. Looks like it needs a password. You wonder who locked it?
++The door is locked. It appears to be guarding someone's private memories. Looks like it needs a password. You wonder who locked it?
+  #mysterious symbol #a clue #bonus hint: #it's karkat
+ Hey, it's shouty! But it looks like he's severely embroiled in a really heavy discussion with your team's Vantas. You really don't feel like getting involved.
+- Listen in on conversation?
++Listen in on conversation?
+  #eavesdropping #rude
+ Do a sick grind down the railing?
+- You got LATULA'S FOUR WHEEL DEVICE!
++You got LATULA'S FOUR WHEEL DEVICE!
+  #AWWW YEAH #WHAT'S UP GAMERS
+ It's a little dream bubble, containing one of your memories. You look inside.
+ The memory is from right here, on Prospit. You spent a great deal of time there during the long sweeps of your session. You remember this little precipice well.
+ But... wasn't there a staircase here? You are almost positive there were stairs.
+- It's a little dream bubble. But it does not contain your memory. Only Porrim can see what's inside.
++It's a little dream bubble. But it does not contain your memory. Only Porrim can see what's inside.
+  #sorry
+ You got a PAIR OF HORNS!
+- This is the most ridiculous thing you've ever seen. Why would anyone want to wear a second pair of horns? Unless maybe they were compensating for a particularly nubby pair... oh, you got it! Humans wear these to pretend to be trolls, and also be less stupid looking. These clearly belonged to a human. 
++This is the most ridiculous thing you've ever seen. Why would anyone want to wear a second pair of horns? Unless maybe they were compensating for a particularly nubby pair... oh, you got it! Humans wear these to pretend to be trolls, and also be less stupid looking. These clearly belonged to a human. 
+  #case closed
+ You got a LANCE!
+- Who's memory is this? This thing has really made the rounds. Let's see, Tavros had it, but then was impaled by it. The Black Queen had it, and used it as a cigarette holder sometimes, when she was Snowman. Spades Slick wielded it while riding around on a horse hitcher once. Snowman killed Quarters with it, you think. That happened in the top banner though, so you might have missed it...
++Who's memory is this? This thing has really made the rounds. Let's see, Tavros had it, but then was impaled by it. The Black Queen had it, and used it as a cigarette holder sometimes, when she was Snowman. Spades Slick wielded it while riding around on a horse hitcher once. Snowman killed Quarters with it, you think. That happened in the top banner though, so you might have missed it...
+  #meenah has no idea what we're talking about
+ You got a SUFFERER PENDANT!
+- Exhibiting the Sign of the Signless. The story of the Sufferer got really popular among your old crew as a kind of religious fad, after everyone died and learned the stories of their post-scratch lives. Aranea especially seems to have bought into this nonsense hook line and sinker. She never wore anything like that around her neck BEFORE she died. You wonder if people have gotten so into it just to bug Vantas? You just know it probably pisses him off, seeing people wear this thing all the time.
++Exhibiting the Sign of the Signless. The story of the Sufferer got really popular among your old crew as a kind of religious fad, after everyone died and learned the stories of their post-scratch lives. Aranea especially seems to have bought into this nonsense hook line and sinker. She never wore anything like that around her neck BEFORE she died. You wonder if people have gotten so into it just to bug Vantas? You just know it probably pisses him off, seeing people wear this thing all the time.
+  #heheh #now that you think of it #maybe you'll wear one too
+ You got a WHOLE STACK OF BOONDOLLARS!
+- Keep em coming! You'll be rich again in no time. Pretty soon you'll own this place. Right after you save it from destruction, of course.
++Keep em coming! You'll be rich again in no time. Pretty soon you'll own this place. Right after you save it from destruction, of course.
+  #how does this factor into the big silly tumblr metaphor #shrug
+- You got a WHOLE HEAP OF BOONDOLLARS!
++You got a WHOLE HEAP OF BOONDOLLARS!
+  #mo money #3B)
+- Some of these messages don't really make sense unless you're being Meenah, but you're not going to let that bother you.
++Some of these messages don't really make sense unless you're being Meenah, but you're not going to let that bother you.
+  #DWI
+ You got a RAGRIPPER!
+- A popular model from the DEMONBANE line of chainsaws. At least, it was popular on Alternia. Your planet wasn't nearly badass enough for this thing to be sold legally. Beforus was so lame.
++A popular model from the DEMONBANE line of chainsaws. At least, it was popular on Alternia. Your planet wasn't nearly badass enough for this thing to be sold legally. Beforus was so lame.
+  #lame planet #lame planet names
+ You got some AUTHENTIC RELIGIOUS MEMORABILIA!
+- These were the doodads adult post-scratch Vantas was chained up with when he died. You bet Serket would fork over a ton of gold for this junk. Religious nuts are some of the biggest suckers around.
++These were the doodads adult post-scratch Vantas was chained up with when he died. You bet Serket would fork over a ton of gold for this junk. Religious nuts are some of the biggest suckers around.
+  #irons #sufferer #authentic #(or as authentic as phantom ghost memory items get)
+ You got a JUJU!
+- Looks like a magic EGG TIMER, which you can use to travel through time, haphazardly and stupidly. It's the type of item that's severely prone to making a mess of the timeline. Need a JUJU BREAKER to destroy such an item and repair the damage it's done. But that kind of thing is extremely rare-to-non-existent. You don't have a single good guess what form such an item could take.
++Looks like a magic EGG TIMER, which you can use to travel through time, haphazardly and stupidly. It's the type of item that's severely prone to making a mess of the timeline. Need a JUJU BREAKER to destroy such an item and repair the damage it's done. But that kind of thing is extremely rare-to-non-existent. You don't have a single good guess what form such an item could take.
+  #ok you pried one hint out of me #the number 7
+ You got a PRETZELED HORSE HITCHER!
+- Who could have done this to such a fine, cast iron steed? Whoever it was must have been incredibly strong, incredibly smug, and incredibly floppy when shaken.
++Who could have done this to such a fine, cast iron steed? Whoever it was must have been incredibly strong, incredibly smug, and incredibly floppy when shaken.
+  #an incredible host
+ You got a MAGIC CUE BALL!
+- Hey, is this thing a juju too? It's a shame you can't see through its surface, or you'd be able to ask it yourself. This is another thing that's kind of unnerving to find here. Good thing it's only a memory object, right?
++Hey, is this thing a juju too? It's a shame you can't see through its surface, or you'd be able to ask it yourself. This is another thing that's kind of unnerving to find here. Good thing it's only a memory object, right?
+  #right #... #maybe
+ You got a REGISICKLE!
+- Perfect for threshing royalty with. You could almost say you could use it to... thresh princes.
++Perfect for threshing royalty with. You could almost say you could use it to... thresh princes.
+  #troll will smith
+ You got a TROLL ROMANCE NOVEL!
+- Wow, this sure is some steamy, trashy literature here. It's making you perspire a little, and you're only three sentences into the title. Doesn't seem like anyone's looking. Maybe you'll just take one little peek insi... Whoops, it just disappeared in a blur again. God damn it.
++Wow, this sure is some steamy, trashy literature here. It's making you perspire a little, and you're only three sentences into the title. Doesn't seem like anyone's looking. Maybe you'll just take one little peek insi... Whoops, it just disappeared in a blur again. God damn it.
+  #LAAAAALOOOOONDE!!!!!!!!!!
+ You got a bunch of LICORICE SCOTTIE DOGS!
+- Oh man, these were a DELICACY on your planet. The most valuable treat per-pound by far. You have to be a very, very wealthy person to keep a great supply of these on hand. By selling these, you should be able to make most of your fortune back in one fell swoop!!!!!
++Oh man, these were a DELICACY on your planet. The most valuable treat per-pound by far. You have to be a very, very wealthy person to keep a great supply of these on hand. By selling these, you should be able to make most of your fortune back in one fell swoop!!!!!
+  #except you just ate most of them #worth it
